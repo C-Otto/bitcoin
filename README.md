@@ -148,6 +148,14 @@ Wenn sich dadurch eine gültige Prüfsumme ergibt, wird dieser Block an die ande
 Wenn die Prüfsumme allerdings nicht zu den Anforderungen passt, wird der Vorgang mit einer anderen Zahl wiederholt.
 Das wiederholt sich, bis die Prüfsumme passt oder ein neuer gültiger Block empfangen wurde.
 
+Dieser Aufwand bedeutet für die Miner immense Strom- und Hardwarekosten, ist aber für die [Sicherheit von Bitcoin](#wie_sicher_ist_bitcoin) essentiell.
+Damit die Miner trotzdem Blöcke hinzufügen, ist eine Belohnungs-Transaktion Teil eines jeden erzeugten Blocks:
+Pro Block werden (aktuell) 25 neu erzeugte Bitcoin an den Miner ausgezahlt.
+Der Miner kann diese Belohnung nach einer kurzen Wartezeit (100 Blöcke, die auf den gefundenen aufbauen müssen) ausgeben und beispielsweise benutzen, um seine Stromrechnung zu zahlen.
+
+Wie in der Antwort zur Frage ["Wie viele Bitcoin gibt es? Was ist mit Inflation?"](#wie_viele_bitcoin_gibt_es) erwähnt, werden neue Bitcoins nicht mit einer konstanten Geschwindigkeit erzeugt.
+Bis zum 28.11.2012 hat jeder Block eine Belohnung von 50 Bitcoin enthalten, ab ca. Mitte 2016 wird die aktuelle Belohnung von 25 Bitcoin wieder halbiert, auf dann 12,5 Bitcoin.
+
 ## <a name="wie_sicher_ist_bitcoin"></a>Wie sicher ist Bitcoin?
 Zum Thema Sicherheit gibt es diverse Fragestellungen.
 Eine wichtige Frage, vielleicht die wichtigste bei digitalen Zahlungsmitteln, ist: Wie sicher kann ich mir sein, dass ich wirklich Geld bekommen habe und es später auch ausgeben kann?
@@ -172,7 +180,7 @@ Der Aufwand ist allerdings für kleinere Beträge wie bei einem Kaffee-Kauf rech
 Sicherer ist es, einer Transaktion nur zu vertrauen, wenn diese in einem Block enthalten ist ("1 Confirmation").
 Um eine solche Transaktion ungültig bzw. rückgängig zu machen, müsste man diesen Block nachträglich aus der Blockchain entfernen.
 Dies ist allerdings nur möglich, wenn man eine parallele Blockchain konstruieren kann, die mindestens so viele Blöcke enthält wie die des oben erwähnten Blocks.
-Da nach der Veröffentlichung des neuen Blocks alle Miner darauf aufbauend neue Blöcke hinzufügen, muss man also schneller zwei Blöcke finden als alle anderen Miner brauchen um einen Block zu finden.
+Da nach der Veröffentlichung des neuen Blocks alle Miner darauf aufbauend neue Blöcke hinzufügen, muss man also schneller zwei Blöcke erzeugen als alle anderen Miner brauchen um einen Block zu erzeugen.
 
 Da es auch hier halbwegs praktikable Betrugsszenarien gibt, empfiehlt es sich für höhere Beträge darauf zu warten, dass die Transaktion in einem Block enthalten ist, auf dem aufbauend noch mindestens ein weiterer Block existiert ("2 Confirmations" oder mehr).
 Der für einen Betrüger nötige Aufwand steigt exponentiell in der Anzahl der Blöcke, die die Transaktion enthalten bzw. darauf aufbauen.
