@@ -17,6 +17,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. [Wer steht hinter Bitcoin?](#wer_steht_hinter_bitcoin)
 1. [Was ist eine Bitcoin wert?](#was_ist_eine_bitcoin_wert)
 1. [Sieht jeder meine Überweisungen?](#sieht_jeder_meine_ueberweisungen)
+1. Wie viele Bitcoin gibt es? Was ist mit Inflation?
 1. Wie skaliert Bitcoin?
 1. Wurde Bitcoin gehackt? Ist Bitcoin pleite? Wurden Bitcoin-Kunden betrogen?
 1. Wie wird die Blockchain aufgebaut? Wie arbeiten Miner?
