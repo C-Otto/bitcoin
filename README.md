@@ -104,7 +104,7 @@ Den aktuellen Kurs kann man beispielsweise unter [bitcoin.de](https://www.bitcoi
 
 <img src="https://bitcoinapi.de/widget/current-btc-price">
 
-## <a name="#sieht_jeder_meine_ueberweisungen"></a>Sieht jeder meine Überweisungen?
+## <a name="sieht_jeder_meine_ueberweisungen"></a>Sieht jeder meine Überweisungen?
 Die Blockchain enthält jede Transaktion mit Angaben zu Quelle, Ziel, Betrag und Zeitpunkt.
 Dementsprechend sind diese Details der Überweisung offen einsehbar.
 Während man bei klassischen Banken aber nur ein Konto oder eine Kreditkarte hat, generiert man bei Bitcoin generell viele solcher "Konten" (genannt Adressen).
@@ -113,7 +113,7 @@ Dadurch, dass man hunderte bis tausende dieser Adressen benutzt und für jede Tr
 Für eine konkrete Überweisung kann ich zwar eine Adresse mit meinem Handelspartner verknüpfen, ich weiß allerdings nicht welche Adressen dieser zusätzlich verwaltet.
 Da jeder Teilnehmer auch (mit Hilfe von Bitcoin-Software) selbstständig diese Addressen verwaltet und es kein zentrales Register wie bei einer Bank gibt, ist das Bezahlen im Bitcoin-Netzwerk "pseudonym".
 
-## <a name="#wie_viele_bitcoin_gibt_es"></a>Wie viele Bitcoin gibt es? Was ist mit Inflation?
+## <a name="wie_viele_bitcoin_gibt_es"></a>Wie viele Bitcoin gibt es? Was ist mit Inflation?
 Aktuell, Anfang 2016, sind rund 14,7 Millionen Bitcoin im Umlauf, insgesamt wird es rund 21 Millionen Bitcoin geben.
 
 Teil des Bitcoin-Protokolls ist, dass regelmäßig neue Bitcoins erzeugt und in Umlauf gebracht werden.
