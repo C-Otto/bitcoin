@@ -83,13 +83,13 @@ Wenn allerdings die Mehrheit der Teilnehmer mit dem Betrüger zusammen arbeitet,
 Hierbei ist allerdings zu bedenken, dass ein System was in der Mehrheit aus Betrügern besteht, prinzipiell nicht benutzbar ist.
 
 ## <a name="sternchen"></a>Was bedeuten die Sternchen?
-Einige der folgenden Aussagen sind nicht absolut richtig, was zu Recht auch von kritischen und informierten Lesern angemängelt werden könnte.
+Einige der Aussagen sind nicht absolut richtig, was zu Recht auch von kritischen und informierten Lesern angemängelt werden könnte.
 An den Stellen, an denen die vollständig korrekte Erklärung zu weit gehen würde und die gewählte Formulierung trotzdem die Kernaussage ausdrückt, deutet ein Sternchen auf eine solche Inkorrektheit hin.
 Als Beispiel ist die Aussage "Man darf nicht bei Rot über die Kreuzung fahren" nicht ganz richtig, da es Ausnahmen für Einsatzfahrten der Polizei und Feuerwehr gibt.
 Wenn man Kindern das Konzept einer Ampel erklärt, wird man allerdings vermutlich trotzdem nicht sofort auf sämtliche gesetzlichen Ausnahmeregelungen eingehen.
 
 Im Kontext der IT gilt "Verschlüsselte E-Mails können nur Sender und Empfänger lesen" auch nicht immer.
-Selbst bei guten Verschlüsselungsverfahren kann man mit extrem hohem Rechenaufwand (mehr, als die NSA sich leisten kann) jede Nachricht entschlüsseln.
+Selbst bei guten Verschlüsselungsverfahren kann man mit extrem hohem Rechenaufwand (mehr, als selbst der NSA physikalisch möglich ist) jede Nachricht entschlüsseln.
 Hier würde deshalb "Verschlüsselte E-Mails können nur* Sender und Empfänger lesen" stehen. 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
