@@ -11,10 +11,10 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 
 ## Inhaltsverzeichnis
 
-1. Was ist Bitcoin?
-1. Was ist die Blockchain?
-1. Was ist neu an Bitcoin?
-1. Wer steht hinter Bitcoin?
+1. [#was_ist_bitcoin](Was ist Bitcoin?)
+1. [#was_ist_die_blockchain](Was ist die Blockchain?)
+1. [#was_ist_neu_an_bitcoin](Was ist neu an Bitcoin?)
+1. [#wer_steht_hinter_bitcoin](Wer steht hinter Bitcoin?)
 1. Was ist eine Bitcoin wert?
 1. Wie skaliert Bitcoin?
 1. Wurde Bitcoin gehackt? Ist Bitcoin pleite? Wurden Bitcoin-Kunden betrogen?
@@ -33,7 +33,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 [Carsten Otto](mailto:bitcoin@c-otto.de) ist promovierter Informatiker und agiler Software-Entwickler.
 Er ist besonders an den Technik-Details von Bitcoin interessiert.
 
-## Was ist Bitcoin?
+## <a name="was_ist_bitcoin"></a>Was ist Bitcoin?
 Bitcoin ist eine neue Technologie, mit der man digital bezahlen kann.
 Hierbei kommt keine klassische Währung wie Euro oder US-Dollar zum Einsatz, sondern Bitcoin.
 Wenn zwei Geschäftspartner, beispielsweise ein Kunde und ein Verkäufer, sich auf einen Bitcoin-Preis einigen, kann der Kunde dem Verkäufer diesen Betrag überweisen und dafür die Gegenleistung in Empfang nehmen.
@@ -44,7 +44,7 @@ Bei der Verwendung von Kreditkarten oder Diensten wie PayPal muss man dem Betrei
 Bei Bitcoin gibt es eine solche zentrale Institution nicht.
 Potenzielle Probleme wie Datendiebstahl, Zensur und unkontrollierbare Inflation werden dadurch vermieden.
 
-## Was ist die Blockchain?
+## <a name="was_ist_die_blockchain"></a>Was ist die Blockchain?
 Die Blockchain ist die Speicher-Technologie hinter Bitcoin, in der alle Bezahl-Informationen gespeichert werden.
 Dies entspricht den zentralen Registern bei Banken oder anderen Bezahl-Anbietern.
 Im Gegensatz zu klassischen Verfahren ist die Blockchain allerdings dezentral.
@@ -57,7 +57,7 @@ Neue Zahlungen werden als zusätzliche Information in der Blockchain gespeichert
 Hierbei werden regelmäßig die neuesten Transaktionen in Form von Blöcken gebündelt und an die Teilnehmer des Netzwerkes verteilt.
 Ein solcher neuer Block wird mit dem vorherigen Block verknüpft, so dass eine Kette von Blöcken ("Blockchain") entsteht.
 
-## Was ist neu an Bitcoin?
+## <a name="was_ist_neu_an_bitcoin"></a>Was ist neu an Bitcoin?
 Vor der Erfindung von Bitcoin waren digitale Bezahlungen nur sicher möglich, wenn man einem zentralen Anbieter wie PayPal vertraut hat.
 Dieser zentrale Anbieter hat einen Überblick über die jeweiligen Kontostände.
 Wenn eine Überweisung ausgeführt wird, kontrolliert der Anbieter diese und passt die Kontostände an. 
@@ -70,7 +70,7 @@ Insbesondere, wenn einzelne Teilnehmer betrügen möchten, ist dieses dezentrale
 
 Mit der Blockchain wird dieses Problem gelöst, da die Blockchain nicht[*](#sternchen) nachträglich verändert werden kann und den gespeicherten Bezahlinformationen daher vertraut werden kann.
 
-## Wer steht hinter Bitcoin?
+## <a name="wer_steht_hinter_bitcoin"></a>Wer steht hinter Bitcoin?
 Die ursprüngliche Idee wurde von "Satoshi Nakamoto" im Jahr 2008 publiziert.
 Bis heute ist allerdings nicht bekannt, wer hinter diesem Pseudonym steckt.
 
