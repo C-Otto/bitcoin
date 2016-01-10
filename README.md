@@ -22,7 +22,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. [Wie sicher ist Bitcoin?](#wie_sicher_ist_bitcoin)
 1. [Wie skaliert Bitcoin?](#wie_skaliert_bitcoin)
 1. [Was sind Micropayments?](#was_sind_micropayments)
-1. Wurde Bitcoin gehackt? Ist Bitcoin pleite? Wurden Bitcoin-Kunden betrogen?
+1. [Wurde Bitcoin gehackt? Ist Bitcoin pleite? Wurden Bitcoin-Kunden betrogen?](#wurde_bitcoin_gehackt)
 1. Braucht Bitcoin viel Strom?
 1. Wie kann ich mit Bitcoin bezahlen?
 1. Wo kann ich mit Bitcoin bezahlen?
@@ -211,6 +211,17 @@ Weiterhin sind Modelle in der Entwicklung, die auf die Sicherheit der Bitcoin-Bl
 Micropayments sind Transaktionen von Kleinstbeträgen, welche es aufgrund der hohen Kosten im klassischen Umfeld mit Kreditkarten und PayPal eher wenig gibt.
 Um per Bitcoin beispielsweise 0,20€ zu überweisen muss[*](#sternchen) man aktuell weniger als einen Euro-Cent an Transaktionsgebühren zuzahlen.
 Dadurch ist es leicht möglich, einzelne Käufe wie Zeitungsartikel oder Fotos bequem zu bezahlen, oder Kleinstspenden ähnlich einem Facebook-Like zu verteilen.
+
+## <a name="wurde_bitcoin_gehackt"></a>Wurde Bitcoin gehackt? Ist Bitcoin pleite? Wurden Bitcoin-Kunden betrogen?
+In den Nachrichten findet man leider häufig Berichte über Bitcoin-Pleiten, Betrug, Hacks und ähnliches.
+Hierbei handelt es sich meistens um einen konkreten Anbieter, der Bitcoin als Bezahlmöglichkeit genutzt hat.
+Wenn diese Firma pleite geht, ihre Kunden betrügt, oder gehackt wird, hat das also nichts mit Bitcoin als Protokoll und Netzwerk zu tun, sondern nur mit dieser einen Firma.
+Entsprechend gilt ja auch nicht "VISA wurde gehackt", wenn ein großer Anbieter wie Target die Kontrolle über die persönlichen und Kreditkarten-Daten von Millionen Kunden nach einem Hackerangriff verliert.
+
+Ähnliches gilt, wenn einzelne Anbieter, die im Auftrag der Kunden Bitcoin verwahren, diese analog zu einem Bankeinbruch verlieren.
+
+Bitcoin funktioniert seit der Inbetriebnahme 2009 und ist nicht tot oder pleite.
+Angriffe auf das Bitcoin-Protokoll, so dass man Bitcoins beliebiger Teilnehmer stehlen konnte, gab es auch noch nicht.
 
 ## <a name="sternchen"></a>Was bedeuten die Sternchen?
 Einige der Aussagen sind nicht absolut richtig, was zu Recht auch von kritischen und informierten Lesern angemängelt werden könnte.
