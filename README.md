@@ -29,6 +29,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. Wo kann ich Bitcoin bekommen?
 1. Was bedeutet Bitcoin für die Banken?
 1. Vereinfacht Bitcoin Geldwäsche oder Drogenkauf?
+1. Was passiert, wenn keine neuen Bitcoin mehr erzeugt werden?
 
 ## Weitere Quellen
 - [Wie funktioniert Bitcoin? bitcoin.org](https://bitcoin.org/de/wie-es-funktioniert)
