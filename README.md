@@ -203,6 +203,10 @@ Hierbei ist aber zu beachten, dass dadurch auch mehr Daten durch das Netzwerk ge
 Seit Mitte 2015 wird kontrovers diskutiert, wie bzw. ob man diese Limitierung anpasst oder gar löscht.
 Zusätzlich gibt es weitere Bemühungen durch Protokoll-Optimierungen mehr Transaktionen pro Block bestätigen zu können, beispielsweise indem man jede Transaktion verkleinert.
 
+Auf lange Sicht ist es allerdings unwahrscheinlich, dass alle Transaktionen (inklusive [Micropayments](#was_sind_micropayments) und den Alltagstransaktionen aller Menschen auf der Welt) mit dem aktuellen Blockchain-Modell abgearbeitet werden.
+Stattdessen gibt es Anbieter, die für eigene Anwendungen eine zentrale Datenbank benutzen und so Transaktionen bündeln (bei entsprechendem Vertrauens-Bedarf).
+Weiterhin sind Modelle in der Entwicklung, die auf die Sicherheit der Bitcoin-Blockchain aufsetzen und viele kleine Transaktionen außerhalb der Blockchain bewältigen können.
+
 ## <a name="was_sind_micropayments"></a>Was sind Micropayments?
 Micropayments sind Transaktionen von Kleinstbeträgen, welche es aufgrund der hohen Kosten im klassischen Umfeld mit Kreditkarten und PayPal eher wenig gibt.
 Um per Bitcoin beispielsweise 0,20€ zu überweisen muss[*](#sternchen) man aktuell weniger als einen Euro-Cent an Transaktionsgebühren zuzahlen.
