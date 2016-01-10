@@ -97,6 +97,7 @@ der Software-Weiterentwicklung, aber auch Spekulation und "Hype", hat sich der P
 starken Schwankungen entwickelt und liegt aktuell bei mehreren hundert Euro pro Bitcoin.
 
 Den aktuellen Kurs kann man beispielsweise unter [bitcoin.de](https://www.bitcoin.de/de/) einsehen:
+
 <img src="https://bitcoinapi.de/widget/current-btc-price">
 
 ## <a name="#sieht_jeder_meine_ueberweisungen"></a>Sieht jeder meine Überweisungen?
