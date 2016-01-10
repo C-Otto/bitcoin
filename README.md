@@ -16,6 +16,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. [Was ist neu an Bitcoin?](#was_ist_neu_an_bitcoin)
 1. [Wer steht hinter Bitcoin?](#wer_steht_hinter_bitcoin)
 1. [Was ist eine Bitcoin wert?](#was_ist_eine_bitcoin_wert)
+1. [Sieht jeder meine Überweisungen?](#sieht_jeder_meine_ueberweisungen)
 1. Wie skaliert Bitcoin?
 1. Wurde Bitcoin gehackt? Ist Bitcoin pleite? Wurden Bitcoin-Kunden betrogen?
 1. Wie wird die Blockchain aufgebaut? Wie arbeiten Miner?
@@ -96,6 +97,15 @@ starken Schwankungen entwickelt und liegt aktuell bei mehreren hundert Euro pro 
 
 Den aktuellen Kurs kann man beispielsweise unter [bitcoin.de](https://www.bitcoin.de/de/) einsehen:
 <img src="https://bitcoinapi.de/widget/current-btc-price">
+
+## <a name="#sieht_jeder_meine_ueberweisungen"></a>Sieht jeder meine Überweisungen?
+Die Blockchain enthält jede Transaktion mit Angaben zu Quelle, Ziel, Betrag und Zeitpunkt.
+Dementsprechend sind diese Details der Überweisung offen einsehbar.
+Während man bei klassischen Banken aber nur ein Konto oder eine Kreditkarte hat, generiert man bei Bitcoin generell viele solcher "Konten" (genannt Adressen).
+
+Dadurch, dass man hunderte bis tausende dieser Adressen benutzt und für jede Transaktion eine neue Adresse generieren kann, ist die Verknüpfung von einzelnen Adressen an konkrete Personen schwer.
+Für eine konkrete Überweisung kann ich zwar eine Adresse mit meinem Handelspartner verknüpfen, ich weiß allerdings nicht welche Adressen dieser zusätzlich verwaltet.
+Da jeder Teilnehmer auch (mit Hilfe von Bitcoin-Software) selbstständig diese Addressen verwaltet und es kein zentrales Register wie bei einer Bank gibt, ist das Bezahlen im Bitcoin-Netzwerk "pseudonym".
 
 ## <a name="sternchen"></a>Was bedeuten die Sternchen?
 Einige der Aussagen sind nicht absolut richtig, was zu Recht auch von kritischen und informierten Lesern angemängelt werden könnte.
