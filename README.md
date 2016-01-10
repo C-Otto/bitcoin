@@ -24,6 +24,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. Wo kann ich mit Bitcoin bezahlen?
 1. Wo kann ich Bitcoin bekommen?
 1. Was bedeutet Bitcoin für die Banken?
+1. Vereinfacht Bitcoin Geldwäsche oder Drogenkauf?
 
 ## Weitere Quellen
 - [Wie funktioniert Bitcoin? bitcoin.org](https://bitcoin.org/de/wie-es-funktioniert)
