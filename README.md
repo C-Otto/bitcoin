@@ -19,6 +19,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. [Sieht jeder meine Überweisungen?](#sieht_jeder_meine_ueberweisungen)
 1. [Wie viele Bitcoin gibt es? Was ist mit Inflation?](#wie_viele_bitcoin_gibt_es)
 1. [Wie wird die Blockchain aufgebaut? Wie arbeiten Miner?](#wie_wird_die_blockchain_aufgebaut)
+1. [Wie sicher ist Bitcoin?](#wie_sicher_ist_bitcoin)
 1. [Wie skaliert Bitcoin?](#wie_skaliert_bitcoin)
 1. Was sind Micropayments?
 1. Wurde Bitcoin gehackt? Ist Bitcoin pleite? Wurden Bitcoin-Kunden betrogen?
@@ -28,11 +29,11 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. Wo kann ich Bitcoin bekommen?
 1. Was bedeutet Bitcoin für die Banken?
 1. Vereinfacht Bitcoin Geldwäsche oder Drogenkauf?
-1. Wie sicher ist Bitcoin?
 
 ## Weitere Quellen
 - [Wie funktioniert Bitcoin? bitcoin.org](https://bitcoin.org/de/wie-es-funktioniert)
 - [p2pLabs Lecture #1: Bitcoin & Blockchain-Technologie](https://www.youtube.com/watch?v=jAuqoOwepl0)
+- [Analysis of hashrate-based double-spending](https://bitcoil.co.il/Doublespend.pdf)
 
 ## Autoren
 ### Dr. Carsten Otto
@@ -146,6 +147,38 @@ Eingehende Transaktionen werden überprüft, und zusammen mit einer zufälligen 
 Wenn sich dadurch eine gültige Prüfsumme ergibt, wird dieser Block an die anderen Netzwerk-Teilnehmer verschickt, und neue Blöcke nehmen diesen Block als Vorgänger.
 Wenn die Prüfsumme allerdings nicht zu den Anforderungen passt, wird der Vorgang mit einer anderen Zahl wiederholt.
 Das wiederholt sich, bis die Prüfsumme passt oder ein neuer gültiger Block empfangen wurde.
+
+## <a name="wie_sicher_ist_bitcoin"></a>Wie sicher ist Bitcoin?
+Zum Thema Sicherheit gibt es diverse Fragestellungen.
+Eine wichtige Frage, vielleicht die wichtigste bei digitalen Zahlungsmitteln, ist: Wie sicher kann ich mir sein, dass ich wirklich Geld bekommen habe und es später auch ausgeben kann?
+
+Ein Händler gibt sein Produkt sinnvollerweise nur dann an den Kunden, wenn dieser bezahlt hat.
+Diese Bezahlung muss so sein, dass der Händler dieses Geld anschließend selber ausgeben kann.
+Wenn die Bezahlung zurückgezogen werden kann, oder andere Marktteilnehmer das Geld nicht akzeptieren, ist das offensichtlich nicht im Interesse des Empfängers.
+
+Bei Bitcoin-Transaktionen gibt es beliebig viele Stufen der Sicherheit.
+
+### "Zero Confirmation"
+Im einfachsten Fall vertraut man einer Bezahlung, sobald man diese im eigenen Computer bzw. Mobilgerät sieht (und die darauf laufende Software die Transaktion überprüft hat).
+Hierbei ist allerdings nicht sichergestellt, dass die Transaktion in den nächsten (oder einen späteren) Block hinzugefügt wird.
+Der Absender der Transaktion kann theoretisch parallel eine konkurrierende Transaktion veröffentlichen, so dass nur eine der beiden Varianten gültig sein kann.
+Wenn nun diese andere Transaktion in einen Block hinzugefügt wird, ist die ursprüngliche Transaktion wertlos und ungültig.
+Durch das Beobachten des Netzwerkes, ob eine solche konkurrierende Transaktion bekannt wird, kann man in einigen Fällen frühzeitig (innerhalb von Sekunden) von dem Problem erfahren.
+Es ist allerdings mit mehr Aufwand für den Betrüger auch möglich, die konkurrierende Transaktion "heimlich", beispielsweise mit Hilfe eines Miners, in den nächsten Block unterzubringen. 
+Diesen sogenannten "Zero Confirmation"-Transaktionen sollte man sogesehen nicht vertrauen, insbesondere bei großen Beträgen (Hauskauf etc.).
+Der Aufwand ist allerdings für kleinere Beträge wie bei einem Kaffee-Kauf recht hoch, so dass es für das Geschäft sinnvoller sein kann das kleine Risiko einzugehen als auf die schnelle Bezahlmöglichkeit zu verzichten.
+ 
+### Mehrere Bestätigungen
+Sicherer ist es, einer Transaktion nur zu vertrauen, wenn diese in einem Block enthalten ist ("1 Confirmation").
+Um eine solche Transaktion ungültig bzw. rückgängig zu machen, müsste man diesen Block nachträglich aus der Blockchain entfernen.
+Dies ist allerdings nur möglich, wenn man eine parallele Blockchain konstruieren kann, die mindestens so viele Blöcke enthält wie die des oben erwähnten Blocks.
+Da nach der Veröffentlichung des neuen Blocks alle Miner darauf aufbauend neue Blöcke hinzufügen, muss man also schneller zwei Blöcke finden als alle anderen Miner brauchen um einen Block zu finden.
+
+Da es auch hier halbwegs praktikable Betrugsszenarien gibt, empfiehlt es sich für höhere Beträge darauf zu warten, dass die Transaktion in einem Block enthalten ist, auf dem aufbauend noch mindestens ein weiterer Block existiert ("2 Confirmations" oder mehr).
+Der für einen Betrüger nötige Aufwand steigt exponentiell in der Anzahl der Blöcke, die die Transaktion enthalten bzw. darauf aufbauen.
+
+Für Beträge im Bereich von wenigen 1.000€ ist ein Angriff nach zwei Bestätigungen schon unrentabel, sofern der Angreifer mit einer Wahrscheinlichkeit von höchstens 4% Blöcke hinzufügen kann.
+Bei gleicher Wahrscheinlichkeit reichen schon 5-6 Bestätigungen, um Angriffe selbst bei Transaktionen im Millionenbereich unrentabel zu machen.
  
 ## <a name="wie_skaliert_bitcoin"></a>Wie skaliert Bitcoin?
 Da alle Transaktionen an alle Teilnehmer geschickt werden, und diese alle Transaktionen speichern, kann das Bitcoin-Netzwerk nur eine begrenzte Anzahl von Transaktionen pro Sekunde bewältigen.
