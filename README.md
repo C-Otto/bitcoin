@@ -21,7 +21,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. [Wie wird die Blockchain aufgebaut? Wie arbeiten Miner?](#wie_wird_die_blockchain_aufgebaut)
 1. [Wie sicher ist Bitcoin?](#wie_sicher_ist_bitcoin)
 1. [Wie skaliert Bitcoin?](#wie_skaliert_bitcoin)
-1. Was sind Micropayments?
+1. [Was sind Micropayments?](#was_sind_micropayments)
 1. Wurde Bitcoin gehackt? Ist Bitcoin pleite? Wurden Bitcoin-Kunden betrogen?
 1. Braucht Bitcoin viel Strom?
 1. Wie kann ich mit Bitcoin bezahlen?
@@ -194,6 +194,11 @@ Würde man größere Blöcke erlauben, könnte man dadurch natürlich mehrere Tr
 Hierbei ist aber zu beachten, dass dadurch auch mehr Daten durch das Netzwerk geschickt, auf Datenträgern gespeichert und von Prozessoren verifiziert werden müssen.
 Seit Mitte 2015 wird kontrovers diskutiert, wie bzw. ob man diese Limitierung anpasst oder gar löscht.
 Zusätzlich gibt es weitere Bemühungen durch Protokoll-Optimierungen mehr Transaktionen pro Block bestätigen zu können, beispielsweise indem man jede Transaktion verkleinert.
+
+## <a name="was_sind_micropayments"></a>Was sind Micropayments?
+Micropayments sind Transaktionen von Kleinstbeträgen, welche es aufgrund der hohen Kosten im klassischen Umfeld mit Kreditkarten und PayPal eher wenig gibt.
+Um per Bitcoin beispielsweise 0,20€ zu überweisen muss[*](#sternchen) man aktuell weniger als einen Euro-Cent an Transaktionsgebühren zuzahlen.
+Dadurch ist es leicht möglich, einzelne Käufe wie Zeitungsartikel oder Fotos bequem zu bezahlen, oder Kleinstspenden ähnlich einem Facebook-Like zu verteilen.
 
 ## <a name="sternchen"></a>Was bedeuten die Sternchen?
 Einige der Aussagen sind nicht absolut richtig, was zu Recht auch von kritischen und informierten Lesern angemängelt werden könnte.
