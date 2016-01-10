@@ -18,7 +18,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. [Was ist eine Bitcoin wert?](#was_ist_eine_bitcoin_wert)
 1. [Sieht jeder meine Überweisungen?](#sieht_jeder_meine_ueberweisungen)
 1. [Wie viele Bitcoin gibt es? Was ist mit Inflation?](#wie_viele_bitcoin_gibt_es)
-1. Wie skaliert Bitcoin?
+1. [Wie skaliert Bitcoin?](#wie_skaliert_bitcoin)
 1. Was sind Micropayments?
 1. Wurde Bitcoin gehackt? Ist Bitcoin pleite? Wurden Bitcoin-Kunden betrogen?
 1. Wie wird die Blockchain aufgebaut? Wie arbeiten Miner?
@@ -125,7 +125,22 @@ Die letzten 12,5% werden entsprechend über die darauf folgenden Jahre erzeugt.
 Die Inflation ist also Teil des Protokolls, und man kann mit hoher Genauigkeit ausrechnen, wie viele Bitcoin es zu einem bestimmten Termin gibt.
 
 Ähnlich zu einem Euro, den man in 100 Euro-Cent unterteilen kann, ist die kleinste Bitcoin-Einheit (genannt 1 Satoshi) 0,00000001 Bitcoin.
-Dadurch ist es selbst bei einem hohen Bitcoin-Preis auch möglich, Transaktionen im Cent-Bereich (oder darunter) durchzuführen. 
+Dadurch ist es selbst bei einem hohen Bitcoin-Preis auch möglich, Transaktionen im Cent-Bereich (oder darunter) durchzuführen.
+ 
+## <a name="wie_skaliert_bitcoin"></a>Wie skaliert Bitcoin?
+Da alle Transaktionen an alle Teilnehmer geschickt werden, und diese alle Transaktionen speichern, kann das Bitcoin-Netzwerk nur eine begrenzte Anzahl von Transaktionen pro Sekunde bewältigen.
+
+Der Speicherverbrauch ist aktuell vergleichsweise unproblematisch, alle Bitcoin-Transaktionen von 2009 bis Anfang 2016 verbrauchen ca. 60 GByte an Festplatten-Platz.
+Festplatten sind viel größer (und werden immer größer), außerdem kann man beispielsweise mit Mobilgeräten auch bezahlen kann ohne diese Daten lokal vorzuhalten. 
+
+Aktuell ist Bitcoin auf ca. 3-4 Transaktionen pro Sekunde begrenzt, während das VISA-Netzwerk durchgehend ca. 2.000 Transaktionen pro Sekunde bewältigt.
+Der eigentliche Grund für die aktuelle Grenze ist die Limitierung der Block-Größe.
+Jeder gefundene Block darf maximal 1.000.000 Byte groß sein (ca. 1 MByte), woraus sich die Anzahl der maximal enthaltenen Transaktionen ergibt.
+
+Würde man größere Blöcke erlauben, könnte man dadurch natürlich mehrere Transaktionen pro Block bestätigen.
+Hierbei ist aber zu beachten, dass dadurch auch mehr Daten durch das Netzwerk geschickt, auf Datenträgern gespeichert und von Prozessoren verifiziert werden müssen.
+Seit Mitte 2015 wird kontrovers diskutiert, wie bzw. ob man diese Limitierung anpasst oder gar löscht.
+Zusätzlich gibt es weitere Bemühungen durch Protokoll-Optimierungen mehr Transaktionen pro Block bestätigen zu können, beispielsweise indem man jede Transaktion verkleinert.
 
 ## <a name="sternchen"></a>Was bedeuten die Sternchen?
 Einige der Aussagen sind nicht absolut richtig, was zu Recht auch von kritischen und informierten Lesern angemängelt werden könnte.
