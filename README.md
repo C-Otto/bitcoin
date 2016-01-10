@@ -11,10 +11,10 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 
 ## Inhaltsverzeichnis
 
-1. [#was_ist_bitcoin](Was ist Bitcoin?)
-1. [#was_ist_die_blockchain](Was ist die Blockchain?)
-1. [#was_ist_neu_an_bitcoin](Was ist neu an Bitcoin?)
-1. [#wer_steht_hinter_bitcoin](Wer steht hinter Bitcoin?)
+1. [Was ist Bitcoin?](#was_ist_bitcoin)
+1. [Was ist die Blockchain?](#was_ist_die_blockchain)
+1. [Was ist neu an Bitcoin?](#was_ist_neu_an_bitcoin)
+1. [Wer steht hinter Bitcoin?](#wer_steht_hinter_bitcoin)
 1. Was ist eine Bitcoin wert?
 1. Wie skaliert Bitcoin?
 1. Wurde Bitcoin gehackt? Ist Bitcoin pleite? Wurden Bitcoin-Kunden betrogen?
