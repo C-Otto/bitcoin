@@ -88,7 +88,7 @@ Während bei traditionellen Währungen die Möglichkeit die Steuern in dieser W�
 
 Der Kurs entsteht ausgehend von Argumenten wie der Menge (Stichwort Inflation), der Benutzbarkeit, Sicherheit und Verbreitung.
 Dementsprechend hatte eine Bitcoin kurz nach der Erfindung im Jahr 2008 keinen Kurs (bzw. 0,00€).
-Im Mai 2010 wurde für 10.000 Bitcoin Pizza bestellt, der damalige Kurs lag als bei etwa 0,02€ pro Bitcoin.
+Im Mai 2010 wurde für 10.000 Bitcoin Pizza bestellt, der damalige Kurs lag als bei etwa 0,03€ pro Bitcoin.
 
 Durch ein besseres Verständnis des Sicherheitskonzepts und der Vorteile einer digitalen Währung, und natürlich auch
 der Software-Weiterentwicklung, aber auch Spekulation und "Hype", hat sich der Preis in den letzten Jahren mit einigen
