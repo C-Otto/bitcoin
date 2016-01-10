@@ -23,6 +23,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. Wurde Bitcoin gehackt? Ist Bitcoin pleite? Wurden Bitcoin-Kunden betrogen?
 1. Wie wird die Blockchain aufgebaut? Wie arbeiten Miner?
 1. Braucht Bitcoin viel Strom?
+1. Wie kann ich mit Bitcoin bezahlen?
 1. Wo kann ich mit Bitcoin bezahlen?
 1. Wo kann ich Bitcoin bekommen?
 1. Was bedeutet Bitcoin für die Banken?
