@@ -18,10 +18,10 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. [Was ist eine Bitcoin wert?](#was_ist_eine_bitcoin_wert)
 1. [Sieht jeder meine Überweisungen?](#sieht_jeder_meine_ueberweisungen)
 1. [Wie viele Bitcoin gibt es? Was ist mit Inflation?](#wie_viele_bitcoin_gibt_es)
+1. [Wie wird die Blockchain aufgebaut? Wie arbeiten Miner?](#wie_wird_die_blockchain_aufgebaut)
 1. [Wie skaliert Bitcoin?](#wie_skaliert_bitcoin)
 1. Was sind Micropayments?
 1. Wurde Bitcoin gehackt? Ist Bitcoin pleite? Wurden Bitcoin-Kunden betrogen?
-1. Wie wird die Blockchain aufgebaut? Wie arbeiten Miner?
 1. Braucht Bitcoin viel Strom?
 1. Wie kann ich mit Bitcoin bezahlen?
 1. Wo kann ich mit Bitcoin bezahlen?
@@ -126,6 +126,26 @@ Die Inflation ist also Teil des Protokolls, und man kann mit hoher Genauigkeit a
 
 Ähnlich zu einem Euro, den man in 100 Euro-Cent unterteilen kann, ist die kleinste Bitcoin-Einheit (genannt 1 Satoshi) 0,00000001 Bitcoin.
 Dadurch ist es selbst bei einem hohen Bitcoin-Preis auch möglich, Transaktionen im Cent-Bereich (oder darunter) durchzuführen.
+
+## <a name="wie_wird_die_blockchain_aufgebaut"></a>Wie wird die Blockchain aufgebaut? Wie arbeiten Miner?
+Die Blockchain ist eine Kette von Blöcken, wobei jeder Block einzelne Transaktionen enthält und auf den Vorgängerblock verweist.
+Einen neuen Block kann man nicht nach Belieben hinzufügen, da es anderenfalls leicht möglich wäre eine zweite parallele Blockchain zu erzeugen.
+Wenn zwei oder mehrere Blockchains parallel existieren, ist nicht immer klar, welcher Blockchain man vertrauen kann.
+
+Es gibt also nicht nur die Herausforderung, regelmäßig Blöcke (mit neuen Transaktionen) zu erzeugen, sondern auch dieses Erzeugen nicht zu einfach zu machen.
+Das als "Proof of Work" bekannte Konzept sorgt dafür, dass genau dies möglich ist.
+
+Zu jedem Block wird eine Prüfsumme berechnet und nur Blöcke, die eine Prüfsumme mit bestimmten Eigenschaften ergeben, werden als gültig angesehen.
+Um diese Prüfsumme zu beinflussen, enthält jeder Block eine ansonsten unbedeutende Zahl.
+Ändert man diese Zahl, ändert sich die Prüfsumme.
+Nach genug Versuchen oder mit etwas Glück findet man also eine Zahl, so dass der Block mit dieser Zahl eine als gültig angesehene Prüfsumme hat.
+
+Die Teilnehmer im Netzwerk, bzw. deren Rechner, die an dieser Blockerzeugung teilnehmen, nennt man Miner.
+Prinzipiell arbeiten alle Miner nach dem gleichen Muster:
+Eingehende Transaktionen werden überprüft, und zusammen mit einer zufälligen Zahl wird daraus ein Block mit Verweis auf den Vorgängerblock erstellt.
+Wenn sich dadurch eine gültige Prüfsumme ergibt, wird dieser Block an die anderen Netzwerk-Teilnehmer verschickt, und neue Blöcke nehmen diesen Block als Vorgänger.
+Wenn die Prüfsumme allerdings nicht zu den Anforderungen passt, wird der Vorgang mit einer anderen Zahl wiederholt.
+Das wiederholt sich, bis die Prüfsumme passt oder ein neuer gültiger Block empfangen wurde.
  
 ## <a name="wie_skaliert_bitcoin"></a>Wie skaliert Bitcoin?
 Da alle Transaktionen an alle Teilnehmer geschickt werden, und diese alle Transaktionen speichern, kann das Bitcoin-Netzwerk nur eine begrenzte Anzahl von Transaktionen pro Sekunde bewältigen.
