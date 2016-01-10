@@ -15,7 +15,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. [Was ist die Blockchain?](#was_ist_die_blockchain)
 1. [Was ist neu an Bitcoin?](#was_ist_neu_an_bitcoin)
 1. [Wer steht hinter Bitcoin?](#wer_steht_hinter_bitcoin)
-1. Was ist eine Bitcoin wert?
+1. [Was ist eine Bitcoin wert?](#was_ist_eine_bitcoin_wert)
 1. Wie skaliert Bitcoin?
 1. Wurde Bitcoin gehackt? Ist Bitcoin pleite? Wurden Bitcoin-Kunden betrogen?
 1. Wie wird die Blockchain aufgebaut? Wie arbeiten Miner?
@@ -81,6 +81,21 @@ Die Grundannahme hinter Bitcoin ist, dass einzig die Mehrheit der Teilnehmer ent
 Ein einzelner Angreifer kann also nicht betrügen, da eine entsprechende Transaktion von der Mehrheit der Teilnehmer bei der Überprüfung auffallen und verworfen werden würde.
 Wenn allerdings die Mehrheit der Teilnehmer mit dem Betrüger zusammen arbeitet, gibt es hierfür keinen Schutz.
 Hierbei ist allerdings zu bedenken, dass ein System, das in der Mehrheit aus Betrügern besteht, prinzipiell nicht benutzbar ist.
+
+## <a name="was_ist_eine_bitcoin_wert"></name>Was ist eine Bitcoin wert?
+Eine Bitcoin hat keinen festgeschriebenen Wert, ähnlich zu Aktien oder traditionellen Währungen.
+Während bei traditionellen Währungen die Möglichkeit die Steuern in dieser Währung zu zahlen, oder das Bruttoinlandsprodukt des jeweiligen Staates eine gewisse Sicherheit geben, ist dies bei Bitcoin nicht gegeben.
+
+Der Kurs entsteht ausgehend von Argumenten wie der Menge (Stichwort Inflation), der Benutzbarkeit, Sicherheit und Verbreitung.
+Dementsprechend hatte eine Bitcoin kurz nach der Erfindung im Jahr 2008 keinen Kurs (bzw. 0,00€).
+Im Mai 2010 wurde für 10.000 Bitcoin Pizza bestellt, der damalige Kurs lag als bei etwa 0,02€ pro Bitcoin.
+
+Durch ein besseres Verständnis des Sicherheitskonzepts und der Vorteile einer digitalen Währung, und natürlich auch
+der Software-Weiterentwicklung, aber auch Spekulation und "Hype", hat sich der Preis in den letzten Jahren mit einigen
+starken Schwankungen entwickelt und liegt aktuell bei mehreren hundert Euro pro Bitcoin.
+
+Den aktuellen Kurs kann man beispielsweise unter [bitcoin.de](https://www.bitcoin.de/de/) einsehen:
+<img src="https://bitcoinapi.de/widget/current-btc-price">
 
 ## <a name="sternchen"></a>Was bedeuten die Sternchen?
 Einige der Aussagen sind nicht absolut richtig, was zu Recht auch von kritischen und informierten Lesern angemängelt werden könnte.
