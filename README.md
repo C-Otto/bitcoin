@@ -19,6 +19,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. [Sieht jeder meine Überweisungen?](#sieht_jeder_meine_ueberweisungen)
 1. Wie viele Bitcoin gibt es? Was ist mit Inflation?
 1. Wie skaliert Bitcoin?
+1. Was sind Micropayments?
 1. Wurde Bitcoin gehackt? Ist Bitcoin pleite? Wurden Bitcoin-Kunden betrogen?
 1. Wie wird die Blockchain aufgebaut? Wie arbeiten Miner?
 1. Braucht Bitcoin viel Strom?
