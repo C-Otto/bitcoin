@@ -193,7 +193,7 @@ Bei gleicher Stärke des Angreifers reichen schon 5-6 Bestätigungen, um Angriff
 Da alle Transaktionen an alle Teilnehmer geschickt werden, und diese alle Transaktionen speichern, kann das Bitcoin-Netzwerk nur eine begrenzte Anzahl von Transaktionen pro Sekunde bewältigen.
 
 Der Speicherverbrauch ist aktuell vergleichsweise unproblematisch, alle Bitcoin-Transaktionen von 2009 bis Anfang 2016 verbrauchen ca. 60 GByte an Festplatten-Platz.
-Festplatten sind viel größer (und werden immer größer), außerdem kann man beispielsweise mit Mobilgeräten auch bezahlen kann ohne diese Daten lokal vorzuhalten. 
+Festplatten sind viel größer (und werden immer größer), außerdem kann man beispielsweise mit Mobilgeräten auch bezahlen ohne diese Daten lokal vorzuhalten. 
 
 Aktuell ist Bitcoin auf ca. 3-4 Transaktionen pro Sekunde begrenzt, während das VISA-Netzwerk durchgehend ca. 2.000 Transaktionen pro Sekunde bewältigt.
 Der eigentliche Grund für die aktuelle Grenze ist die Limitierung der Block-Größe.
