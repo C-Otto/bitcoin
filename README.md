@@ -23,7 +23,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. [Wie skaliert Bitcoin?](#wie_skaliert_bitcoin)
 1. [Was sind Micropayments?](#was_sind_micropayments)
 1. [Wurde Bitcoin gehackt? Ist Bitcoin pleite? Wurden Bitcoin-Kunden betrogen?](#wurde_bitcoin_gehackt)
-1. Braucht Bitcoin viel Strom?
+1. [Braucht Bitcoin viel Strom?](#braucht_bitcoin_viel_strom)
 1. Wie kann ich mit Bitcoin bezahlen?
 1. [Wo kann ich mit Bitcoin bezahlen?](#wo_kann_ich_mit_bitcoin_bezahlen)
 1. Wo kann ich Bitcoin bekommen?
@@ -224,6 +224,25 @@ Entsprechend gilt ja auch nicht "VISA wurde gehackt", wenn ein großer Anbieter 
 Bitcoin funktioniert seit der Inbetriebnahme 2009 und ist nicht tot oder pleite.
 Angriffe auf das Bitcoin-Protokoll, so dass man Bitcoins beliebiger Teilnehmer stehlen konnte, gab es auch noch nicht.
 
+## <a name="braucht_bitcoin_viel_strom"></a>Braucht Bitcoin viel Strom?
+Das [Erzeugen von Blöcken durch die Miner](#wie_wird_die_blockchain_aufgebaut) kostet Strom.
+Da in diesem Prozess bei dem Versuch eine passende Zahl zu finden nur ansonsten sinnlose Prüfsummen berechnet werden, könnte man diesen Schritt auch weglassen oder ersetzen und dadurch Strom und Aufwand sparen.
+Wichtig für die Sicherheit im Bitcoin-Netzwerk ist allerdings, dass ein potenzieller Angreifer nicht nach Beliebigen Blöcke hinzufügen kann.
+
+Für das Hinzufügen eines Blockes muss Rechenkraft und damit Energie investiert werden.
+Je mehr Energie durch die Mehrheit der ehrlichen Miner investiert wird, desto mehr Energie muss ein Angreifer investieren um mit hoher Wahrscheinlichkeit eigene Blöcke zu erzeugen.
+
+Dies ist ein großer Vorteil gegenüber beispielsweise der Möglichkeit, das Hinzufügen eines Blockes einem zufällig ausgewählten Teilnehmer im Netzwerk zu erlauben:
+Ein Angreifer könnte mit geringem Aufwand eine nahezu unbegrenzte Anzahl von Teilnehmer-Rechnern starten oder deren Existenz vortäuschen.
+Energie lässt sich allerdings nicht kopieren oder fälschen.
+
+Aktuell (Anfang 2016) werden global, aufsummiert über alle Miner, ca. 832 x 10^15 (832.000.000.000.000.000) Prüfsummenberechnungen pro Sekunde durchgeführt.
+Ein effizienter Miner (AntMiner S7) schafft 4 x 10^9 Hashes/Joule.
+Damit verbrauchen alle Miner zusammen mindestens 208 Megawatt.
+Da nicht alle Miner so effizient arbeiten, ist ein Verbrauch von 300 MW realistischer.
+
+Dieser Wert ist unabhängig von der Anzahl der Transaktionen, da die Schwierigkeit einen Block hinzuzufügen nur aus der Erzeugungs-Geschwindigkeit der vorherigen Blöcke berechnet wird.
+ 
 ## <a name="wo_kann_ich_mit_bitcoin_bezahlen"></a>Wo kann ich mit Bitcoin bezahlen?
 Da man nicht um Erlaubnis fragen muss, kann prinzipiell jeder Händler entgegennehmen.
 Verschiedene Anbieter wie beispielsweise [Coinbase](https://www.coinbase.com) und [BitPay](https://www.bitpay.com) bieten Integrationen in vorhandene Shops an und zahlen den Händlern auf Wunsch den Gegenwert einer Bezahlung in Dollar bzw. Euro aus.
