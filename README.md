@@ -184,10 +184,10 @@ Dies ist allerdings nur möglich, wenn man eine parallele Blockchain konstruiere
 Da nach der Veröffentlichung des neuen Blocks alle Miner darauf aufbauend neue Blöcke hinzufügen, muss man also schneller zwei Blöcke erzeugen als alle anderen Miner brauchen um einen Block zu erzeugen.
 
 Da es auch hier halbwegs praktikable Betrugsszenarien gibt, empfiehlt es sich für höhere Beträge darauf zu warten, dass die Transaktion in einem Block enthalten ist, auf dem aufbauend noch mindestens ein weiterer Block existiert ("2 Confirmations" oder mehr).
-Der für einen Betrüger nötige Aufwand steigt exponentiell in der Anzahl der Blöcke, die die Transaktion enthalten bzw. darauf aufbauen.
+Für einen Betrüger, der mit einer Wahrscheinlichkeit von weniger als 50% Blöcke hinzufügen kann, sinkt die Erfolgs-Wahrscheinlichkeit exponentiell in der Anzahl der aufzuholenden Blöcke.
 
 Für Beträge im Bereich von wenigen 1.000€ ist ein Angriff nach zwei Bestätigungen schon unrentabel, sofern der Angreifer mit einer Wahrscheinlichkeit von höchstens 4% Blöcke hinzufügen kann.
-Bei gleicher Wahrscheinlichkeit reichen schon 5-6 Bestätigungen, um Angriffe selbst bei Transaktionen im Millionenbereich unrentabel zu machen.
+Bei gleicher Stärke des Angreifers reichen schon 5-6 Bestätigungen, um Angriffe selbst bei Transaktionen im Millionenbereich unrentabel zu machen.
  
 ## <a name="wie_skaliert_bitcoin"></a>Wie skaliert Bitcoin?
 Da alle Transaktionen an alle Teilnehmer geschickt werden, und diese alle Transaktionen speichern, kann das Bitcoin-Netzwerk nur eine begrenzte Anzahl von Transaktionen pro Sekunde bewältigen.
