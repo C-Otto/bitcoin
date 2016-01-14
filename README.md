@@ -25,7 +25,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. [Wurde Bitcoin gehackt? Ist Bitcoin pleite? Wurden Bitcoin-Kunden betrogen?](#wurde_bitcoin_gehackt)
 1. Braucht Bitcoin viel Strom?
 1. Wie kann ich mit Bitcoin bezahlen?
-1. Wo kann ich mit Bitcoin bezahlen?
+1. [Wo kann ich mit Bitcoin bezahlen?](#wo_kann_ich_mit_bitcoin_bezahlen)
 1. Wo kann ich Bitcoin bekommen?
 1. Was bedeutet Bitcoin für die Banken?
 1. Vereinfacht Bitcoin Geldwäsche oder Drogenkauf?
@@ -223,6 +223,14 @@ Entsprechend gilt ja auch nicht "VISA wurde gehackt", wenn ein großer Anbieter 
 
 Bitcoin funktioniert seit der Inbetriebnahme 2009 und ist nicht tot oder pleite.
 Angriffe auf das Bitcoin-Protokoll, so dass man Bitcoins beliebiger Teilnehmer stehlen konnte, gab es auch noch nicht.
+
+## <a name="wo_kann_ich_mit_bitcoin_bezahlen"></a>Wo kann ich mit Bitcoin bezahlen?
+Da man nicht um Erlaubnis fragen muss, kann prinzipiell jeder Händler entgegennehmen.
+Verschiedene Anbieter wie beispielsweise [Coinbase](https://www.coinbase.com) und [BitPay](https://www.bitpay.com) bieten Integrationen in vorhandene Shops an und zahlen den Händlern auf Wunsch den Gegenwert einer Bezahlung in Dollar bzw. Euro aus.
+
+Namhafte US-Firmen wie Dell, Microsoft, Expedia und Overstock akzeptieren (teilweise) Bitcoin.
+Für den deutschsprachigen Raum gibt es [diese interessante Liste](http://bitcoinblog.de/2016/01/11/die-bitcoin-shopping-liste/).
+Die seite [coinmap.org](http://coinmap.org) zeigt außerdem Akzeptanzstellen auf einer Karte.
 
 ## <a name="sternchen"></a>Was bedeuten die Sternchen?
 Einige der Aussagen sind nicht absolut richtig, was zu Recht auch von kritischen und informierten Lesern angemängelt werden könnte.
