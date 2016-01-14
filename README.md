@@ -244,7 +244,7 @@ Da nicht alle Miner so effizient arbeiten, ist ein Verbrauch von 300 MW realisti
 Dieser Wert ist unabhängig von der Anzahl der Transaktionen, da die Schwierigkeit einen Block hinzuzufügen nur aus der Erzeugungs-Geschwindigkeit der vorherigen Blöcke berechnet wird.
  
 ## <a name="wo_kann_ich_mit_bitcoin_bezahlen"></a>Wo kann ich mit Bitcoin bezahlen?
-Da man nicht um Erlaubnis fragen muss, kann prinzipiell jeder Händler entgegennehmen.
+Da man nicht um Erlaubnis fragen muss, kann prinzipiell jeder Händler Bitcoin entgegennehmen.
 Verschiedene Anbieter wie beispielsweise [Coinbase](https://www.coinbase.com) und [BitPay](https://www.bitpay.com) bieten Integrationen in vorhandene Shops an und zahlen den Händlern auf Wunsch den Gegenwert einer Bezahlung in Dollar bzw. Euro aus.
 
 Namhafte US-Firmen wie Dell, Microsoft, Expedia und Overstock akzeptieren (teilweise) Bitcoin.
