@@ -60,7 +60,7 @@ Im Gegensatz zu klassischen Verfahren ist die Blockchain allerdings dezentral.
 Das heißt, dass man die Informationen nicht an einer zentralen Stelle (beispielsweise im Rechenzentrum der Bank) manipulieren kann, sondern man stattdessen alle Kopien ändern muss.
 
 Jeder[*](#sternchen) Teilnehmer am Bitcoin-Netzwerk hat eine Kopie der Blockchain und überprüft jede Transaktion basierend auf dieser Kopie.
-Manipulationen werden daher frühzeitig erkannt und damit unpraktikabel.
+Manipulationen werden daher frühzeitig erkannt und sind damit unpraktikabel.
 
 Neue Zahlungen werden als zusätzliche Information in der Blockchain gespeichert.
 Hierbei werden regelmäßig die neuesten Transaktionen in Form von Blöcken gebündelt und an die Teilnehmer des Netzwerkes verteilt.
