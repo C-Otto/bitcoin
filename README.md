@@ -46,7 +46,7 @@ Er ist besonders an den Technik-Details von Bitcoin interessiert.
 Bitcoin ist eine neue Technologie, mit der man digital bezahlen kann.
 Hierbei kommt keine klassische Währung wie Euro oder US-Dollar zum Einsatz, sondern Bitcoin.
 Wenn zwei Geschäftspartner, beispielsweise ein Kunde und ein Verkäufer, sich auf einen Bitcoin-Preis einigen, kann der Kunde dem Verkäufer diesen Betrag überweisen und dafür die Gegenleistung in Empfang nehmen.
-Eine solche Überweisung ist, egal ob für Kleinstbeträge und Beträge von mehreren Millionen, schnell (typischerweise Sekunden bis wenige Minuten), günstig (ein Euro-Cent oder weniger), sicher, und weltweit möglich.
+Eine solche Überweisung ist, egal ob für Kleinstbeträge und Beträge von mehreren Millionen, schnell (typischerweise Sekunden bis wenige Minuten), günstig (ein Euro-Cent oder weniger), sicher und weltweit möglich.
 
 Eine Besonderheit von Bitcoin ist, dass man als Teilnehmer an diesem Bezahlnetzwerk keiner zentralen Institution vertrauen muss.
 Bei der Verwendung von Kreditkarten oder Diensten wie PayPal muss man dem Betreiber vertrauen, bei Bargeld dem Staat.
