@@ -83,7 +83,7 @@ Mit der Blockchain wird dieses Problem gelöst, da die Blockchain nicht[*](#ster
 Die ursprüngliche Idee wurde von "Satoshi Nakamoto" im Jahr 2008 publiziert.
 Bis heute ist allerdings nicht bekannt, wer hinter diesem Pseudonym steckt.
 
-Unabhängig davon wer die Technik erfunden hat, hat diese Person oder Gruppe "Satoshi Nakamoto" keine Möglichkeit fundamentale Änderungen vorzunehmen oder sonstwie zu betrügen.
+Unabhängig davon wer die Technik erfunden hat, hat diese Person oder Gruppe "Satoshi Nakamoto" keine Möglichkeit, fundamentale Änderungen vorzunehmen oder sonstwie zu betrügen.
 Die Bezahlinformationen werden von allen Teilnehmern überprüft, und die dafür zugrundeliegenden Regeln können von einem Angreifer nicht beliebig verändert werden.
 
 Die Grundannahme hinter Bitcoin ist, dass einzig die Mehrheit der Teilnehmer entscheidet, welche Regeln gültig sind.
