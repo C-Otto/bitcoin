@@ -57,7 +57,7 @@ Bei Bitcoin gibt es eine solche zentrale Institution nicht.
 Potenzielle Probleme wie Datendiebstahl, Zensur und unkontrollierbare Inflation werden dadurch vermieden.
 
 ## <a name="was_ist_die_blockchain"></a>Was ist die Blockchain?
-Die Blockchain ist die Speicher-Technologie hinter Bitcoin, in der alle Bezahl-Informationen gespeichert werden.
+Die Blockchain ist die Speicher-Technologie hinter Bitcoin, in der alle Zahlungsinformationen gespeichert werden.
 Dies entspricht den zentralen Registern bei Banken oder anderen Bezahl-Anbietern.
 Im Gegensatz zu klassischen Verfahren ist die Blockchain allerdings dezentral.
 Das heißt, dass man die Informationen nicht an einer zentralen Stelle (beispielsweise im Rechenzentrum der Bank) manipulieren kann, sondern man stattdessen alle Kopien ändern muss.
