@@ -96,7 +96,9 @@ Hierbei ist allerdings zu bedenken, dass ein System, das in der Mehrheit aus Bet
 
 ## <a name="was_ist_eine_bitcoin_wert"></name>Was ist eine Bitcoin wert?
 Eine Bitcoin hat keinen festgeschriebenen Wert, ähnlich zu Aktien oder traditionellen Währungen.
-Während bei traditionellen Währungen die Möglichkeit die Steuern in dieser Währung zu zahlen, oder das Bruttoinlandsprodukt des jeweiligen Staates eine gewisse Sicherheit geben, ist dies bei Bitcoin nicht gegeben.
+Klassischen Währungen haben einen Wert, da man mit ihnen Dinge und Leistungen bezahlen kann - insbesondere Steuern.
+Zusammen mit Kennzahlen wie dem Bruttoinlandsprodukt des jeweiligen Staates ergibt sich eine gewisse Sicherheit. 
+Bei Bitcoin ist dies allerdings nicht gegeben.
 
 Der Kurs entsteht durch Angebot und Nachfrage, ausgehend von Argumenten wie der Menge (Stichwort Inflation), der Benutzbarkeit, Sicherheit und Verbreitung.
 Dementsprechend hatte eine Bitcoin kurz nach der ersten Transaktion im Jahr 2009 keinen Kurs (bzw. 0,00€).
