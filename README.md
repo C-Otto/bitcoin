@@ -34,6 +34,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. Muss ich zum Benutzen die komplette Blockchain speichern?
 1. Was brauche ich auf meinem Computer oder Handy, um Bitcoin benutzen zu können?
 1. Wie speichere und sichere ich Bitcoin?
+1. Was sind `Smart Contracts`?
 
 ## Weitere Quellen
 - [Wie funktioniert Bitcoin? bitcoin.org](https://bitcoin.org/de/wie-es-funktioniert)
