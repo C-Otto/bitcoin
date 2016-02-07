@@ -153,7 +153,7 @@ Das wiederholt sich, bis die Prüfsumme passt oder ein neuer gültiger Block emp
 Dieser Aufwand bedeutet für die Miner immense Strom- und Hardwarekosten, ist aber für die [Sicherheit von Bitcoin](#wie_sicher_ist_bitcoin) essentiell.
 Damit die Miner trotzdem Blöcke hinzufügen, ist eine Belohnungs-Transaktion Teil eines jeden erzeugten Blocks:
 Pro Block werden (aktuell) 25 neu erzeugte Bitcoin an den Miner ausgezahlt.
-Der Miner kann diese Belohnung nach einer kurzen Wartezeit (100 Blöcke, die auf den gefundenen aufbauen müssen) ausgeben und beispielsweise benutzen, um seine Stromrechnung zu zahlen.
+Der Miner kann diese Belohnung nach einer kurzen Wartezeit (100 Blöcke, die auf dem gefundenen Block aufbauen müssen) ausgeben und beispielsweise benutzen, um seine Stromrechnung zu zahlen.
 
 Wie in der Antwort zur Frage ["Wie viele Bitcoin gibt es? Was ist mit Inflation?"](#wie_viele_bitcoin_gibt_es) erwähnt, werden neue Bitcoins nicht mit einer konstanten Geschwindigkeit erzeugt.
 Bis zum 28.11.2012 hat jeder Block eine Belohnung von 50 Bitcoin enthalten, ab ca. Mitte 2016 wird die aktuelle Belohnung von 25 Bitcoin wieder halbiert, auf dann 12,5 Bitcoin.
