@@ -16,7 +16,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. [Was ist neu an Bitcoin?](#was_ist_neu_an_bitcoin)
 1. [Wer steht hinter Bitcoin?](#wer_steht_hinter_bitcoin)
 1. [Was ist eine Bitcoin wert?](#was_ist_eine_bitcoin_wert)
-1. [Sieht jeder meine Überweisungen?](#sieht_jeder_meine_ueberweisungen)
+1. [Sieht Jeder meine Überweisungen?](#sieht_jeder_meine_ueberweisungen)
 1. [Wie viele Bitcoin gibt es? Was ist mit Inflation?](#wie_viele_bitcoin_gibt_es)
 1. [Wie wird die Blockchain aufgebaut? Wie arbeiten Miner?](#wie_wird_die_blockchain_aufgebaut)
 1. [Wie sicher ist Bitcoin?](#wie_sicher_ist_bitcoin)
@@ -107,7 +107,7 @@ Den aktuellen Kurs kann man beispielsweise unter [bitcoin.de](https://www.bitcoi
 
 <img src="https://bitcoinapi.de/widget/current-btc-price">
 
-## <a name="sieht_jeder_meine_ueberweisungen"></a>Sieht jeder meine Überweisungen?
+## <a name="sieht_jeder_meine_ueberweisungen"></a>Sieht Jeder meine Überweisungen?
 Die Blockchain enthält jede Transaktion mit Angaben zu Quelle, Ziel, Betrag und Zeitpunkt.
 Dementsprechend sind diese Details der Überweisung offen einsehbar.
 Während man bei klassischen Banken aber nur ein Konto oder eine Kreditkarte hat, generiert man bei Bitcoin generell viele solcher "Konten" (genannt Adressen).
