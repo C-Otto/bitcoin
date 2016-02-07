@@ -28,7 +28,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. [Wo kann ich mit Bitcoin bezahlen?](#wo_kann_ich_mit_bitcoin_bezahlen)
 1. [Wo kann ich Bitcoin bekommen?](#wo_kann_ich_bitcoin_bekommen)
 1. [Was bedeutet Bitcoin für die Banken?](#was_bedeutet_bitcoin_fuer_die_banken)
-1. Vereinfacht Bitcoin Geldwäsche oder Drogenkauf?
+1. [Vereinfacht Bitcoin Geldwäsche oder Drogenkauf?](#vereinfacht_bitcoin_geldwaesche_oder_drogenkauf)
 1. Was passiert, wenn keine neuen Bitcoin mehr erzeugt werden?
 1. Was heißt `Multi Signature`?
 1. Muss ich zum Benutzen die komplette Blockchain speichern?
@@ -295,6 +295,23 @@ Die Blockchain-Technologie allerdings bietet einige neue Möglichkeiten, die auc
 Banken können in der Blockchain sofort sehen, dass bestimmte Werte übertragen wurden.
 Statt Bitcoin-Überweisungen könnte man mit der gleichen Technik prinzipiell auch Aktien oder andere Besitzrechte übertragen.
 Das Verwalten solcher Besitzrechte ist im klassischen Bankenumfeld kompliziert und teuer, da die Informationen unter Einbeziehung mehrerer Teilnehmer weitergereicht werden.
+
+## <a name = "vereinfacht_bitcoin_geldwaesche_oder_drogenkauf"></a>Vereinfacht Bitcoin Geldwäsche oder Drogenkauf?
+Drogen werden selten per Kreditkarte oder Banküberweisung gekauft, da hierbei Spuren hinterlassen werden.
+Die Polizei und andere Behörden können mit diesen Informationen schnell die Beteiligten identifizieren.
+Ähnliches gilt für Geldwäsche.
+
+Bei Bitcoin werden sämtliche Transaktionsdaten in der Blockchain veröffentlicht, sind also auch für diese Behörden verfügbar.
+Den einzelnen Bitcoin-Adressen ist allerdings nicht offensichtlich eine Person zugeordnet.
+Strafverfolgungsbehörden haben aber trotzdem die Möglichkeit, die Meta-Informationen (Uhrzeit, Betrag, ...) auszuwerten und zusammen mit bereits bekannten Zuordnungen (von gefassten Drogendealern, oder bekannten Unternehmen) zu verknüpfen.
+Wer also im großen Stil Drogen kauft oder verkauft, hinterlässt eine Spur, die mit hohem Aufwand aufbereitet werden kann.
+Insbesondere an der Schnittstelle zu klassischen Währungen, also dem Verkauf an einer Bitcoin-Börse oder dem Kauf von Waren in einem Online-Shop, ist es für die Behörden verhältnismäßig leicht zusätzliche Informationen zu gewinnen.
+
+Für Geldwäsche, wobei es im Normalfall um größere Summen geht, ergibt sich ein ähnliches Bild.
+Hinzu kommt, dass größere Beträge schwer zu tauschen sind bzw. entsprechende Angebote an den Börsen auffällig sind.
+Das aktuell geringe Handelsvolumen von Bitcoin macht Geldwäsche im großen Stil riskant und damit uninteressant.
+ 
+Im Vergleich zu Bargeld bietet Bitcoin zwar einige Vorteile insbesondere bei Online-Zahlungen, ist aber nicht uneingeschränkt für kriminelle Aktivitäten sinnvoll einsetzbar 
 
 ## <a name="sternchen"></a>Was bedeuten die Sternchen?
 Einige der Aussagen sind nicht absolut richtig, was zu Recht auch von kritischen und informierten Lesern angemängelt werden könnte.
