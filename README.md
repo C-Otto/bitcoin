@@ -26,7 +26,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. [Braucht Bitcoin viel Strom?](#braucht_bitcoin_viel_strom)
 1. [Wie kann ich mit Bitcoin bezahlen?](#wie_kann_ich_mit_bitcoin_bezahlen)
 1. [Wo kann ich mit Bitcoin bezahlen?](#wo_kann_ich_mit_bitcoin_bezahlen)
-1. Wo kann ich Bitcoin bekommen?
+1. [Wo kann ich Bitcoin bekommen?](#wo_kann_ich_bitcoin_bekommen)
 1. Was bedeutet Bitcoin für die Banken?
 1. Vereinfacht Bitcoin Geldwäsche oder Drogenkauf?
 1. Was passiert, wenn keine neuen Bitcoin mehr erzeugt werden?
@@ -275,6 +275,18 @@ Verschiedene Anbieter wie beispielsweise [Coinbase](https://www.coinbase.com) un
 Namhafte US-Firmen wie Dell, Microsoft, Expedia und Overstock akzeptieren (teilweise) Bitcoin.
 Für den deutschsprachigen Raum gibt es [diese interessante Liste](http://bitcoinblog.de/2016/01/11/die-bitcoin-shopping-liste/).
 Die Seite [coinmap.org](http://coinmap.org) zeigt außerdem Akzeptanzstellen auf einer Karte.
+
+## <a name="wo_kann_ich_bitcoin_bekommen"><a/>Wo kann ich Bitcoin bekommen?
+Eine einfache Möglichkeit ist, mit jemandem zu tauschen der bereits Bitcoin hat.
+
+In (nicht nur) Deutschland kann man sich bei [bitcoin.de](http://www.bitcoin.de) anmelden und einen Tauschpartner im Marktplatz finden.
+Hierbei überweist man den Euro-Betrag per SEPA-Überweisung und bekommt kurz danach den Bitcoin-Betrag gutgeschrieben.
+
+Die Smartphone-App Mycelium bietet einen Trader-Modus, in dem man Tauschpartner in der Nähe finden kann.
+Dazu wird auch eine [Online-Karte](https://www.mycelium.com/lt/m/) angeboten.
+
+International gibt es noch diverse andere Marktplätze und Börsen.
+An dieser Stelle sei nur auf [Coinbase](https://www.coinbase.com), [Circle](https:/www.circle.com), [Anycoin Direct](https://anycoindirect.eu), [Kraken](https://www.kraken.com/) und [Bitstamp](https://www.bitstamp.net/) verwiesen.
 
 ## <a name="sternchen"></a>Was bedeuten die Sternchen?
 Einige der Aussagen sind nicht absolut richtig, was zu Recht auch von kritischen und informierten Lesern angemängelt werden könnte.
