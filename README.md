@@ -27,7 +27,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. [Wie kann ich mit Bitcoin bezahlen?](#wie_kann_ich_mit_bitcoin_bezahlen)
 1. [Wo kann ich mit Bitcoin bezahlen?](#wo_kann_ich_mit_bitcoin_bezahlen)
 1. [Wo kann ich Bitcoin bekommen?](#wo_kann_ich_bitcoin_bekommen)
-1. Was bedeutet Bitcoin für die Banken?
+1. [Was bedeutet Bitcoin für die Banken?](#was_bedeutet_bitcoin_fuer_die_banken)
 1. Vereinfacht Bitcoin Geldwäsche oder Drogenkauf?
 1. Was passiert, wenn keine neuen Bitcoin mehr erzeugt werden?
 1. Was heißt `Multi Signature`?
@@ -287,6 +287,14 @@ Dazu wird auch eine [Online-Karte](https://www.mycelium.com/lt/m/) angeboten.
 
 International gibt es noch diverse andere Marktplätze und Börsen.
 An dieser Stelle sei nur auf [Coinbase](https://www.coinbase.com), [Circle](https:/www.circle.com), [Anycoin Direct](https://anycoindirect.eu), [Kraken](https://www.kraken.com/) und [Bitstamp](https://www.bitstamp.net/) verwiesen.
+
+## <a name="was_bedeutet_bitcoin_fuer_die_banken"></a>Was bedeutet Bitcoin für die Banken?
+Für Banken ist Bitcoin als Währung eher uninteressant.
+Die Blockchain-Technologie allerdings bietet einige neue Möglichkeiten, die auch für Banken interessant sind.
+
+Banken können in der Blockchain sofort sehen, dass bestimmte Werte übertragen wurden.
+Statt Bitcoin-Überweisungen könnte man mit der gleichen Technik prinzipiell auch Aktien oder andere Besitzrechte übertragen.
+Das Verwalten solcher Besitzrechte ist im klassischen Bankenumfeld kompliziert und teuer, da die Informationen unter Einbeziehung mehrerer Teilnehmer weitergereicht werden.
 
 ## <a name="sternchen"></a>Was bedeuten die Sternchen?
 Einige der Aussagen sind nicht absolut richtig, was zu Recht auch von kritischen und informierten Lesern angemängelt werden könnte.
