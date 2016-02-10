@@ -95,7 +95,7 @@ Ein einzelner Angreifer kann also nicht betrügen, da eine entsprechende Transak
 Wenn allerdings die Mehrheit der Teilnehmer mit dem Betrüger zusammen arbeitet, gibt es hierfür keinen Schutz.
 Hierbei ist allerdings zu bedenken, dass ein System, das in der Mehrheit aus Betrügern besteht, prinzipiell nicht benutzbar ist.
 
-## <a name="was_ist_eine_bitcoin_wert"></name>Was ist eine Bitcoin wert?
+## <a name="was_ist_eine_bitcoin_wert"></a>Was ist eine Bitcoin wert?
 Eine Bitcoin hat keinen festgeschriebenen Wert, ähnlich zu Aktien oder traditionellen Währungen.
 Klassischen Währungen haben einen Wert, da man mit ihnen Dinge und Leistungen bezahlen kann - insbesondere Steuern.
 Zusammen mit Kennzahlen wie dem Bruttoinlandsprodukt des jeweiligen Staates ergibt sich eine gewisse Sicherheit. 
