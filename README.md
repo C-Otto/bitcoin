@@ -31,7 +31,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. [Vereinfacht Bitcoin Geldwäsche oder Drogenkauf?](#vereinfacht_bitcoin_geldwaesche_oder_drogenkauf)
 1. [Was passiert, wenn keine neuen Bitcoin mehr erzeugt werden?](#was_passiert_wenn_keine_neuen_bitcoin_mehr_erzeugt_werden)
 1. [Was heißt `Multi Signature` (oder `Multisig`)?](#was_heisst_multi_signature)
-1. Muss ich zum Benutzen die komplette Blockchain speichern?
+1. [Muss ich zum Benutzen die komplette Blockchain speichern?](#muss_ich_zum_benutzen_die_komplette_blockchain_speichern)
 1. Was brauche ich auf meinem Computer oder Handy, um Bitcoin benutzen zu können?
 1. Wie speichere und sichere ich Bitcoin?
 1. Was sind `Smart Contracts`?
@@ -340,6 +340,16 @@ Bei Uneinigkeit kann aber auch der Treuhändler zusammen mit nur einem der beide
 Alleine, also ohne Unterstützung wenigstens eines Handelspartners, hat der Treuhändler allerdings keinen Zugriff auf die jeweiligen Bitcoin.
 
 Zusätzlich zu "zwei von drei (2/3)" sind noch viele weitere Kombinationen möglich, beispielsweise 1/2, 2/2, 3/3, ...
+
+## <a name="muss_ich_zum_benutzen_die_komplette_blockchain_speichern"></a>Muss ich zum Benutzen die komplette Blockchain speichern?
+Aktuell ist die vollständige Blockchain ca. 60 GByte groß.
+Die darin enthaltenen Daten reichen aus, ohne weitere Unterstützung Transaktionen auf ihre Gültigkeit zu überprüfen.
+Für größere Summen oder Firmen ist es also empfehlenswert, einen Bitcoin-Knoten mit der vollen Blockchain ("Full Node") zu betreiben und zur Verifikation zu nutzen.
+
+Es ist allerdings auch möglich, beispielsweise auf Handys oder auch Computern, sogenannte "Thin Clients" zu nutzen.
+Diese kommen mit sehr wenig Speicher aus.
+Transaktionen werden beispielsweise durch Nachfragen bei den oben genannten Full Nodes überprüft.
+Dadurch wird zwar Speicherplatz gespart, dafür ist dieser Ansatz allerdings - aufgrund des nötigen Vertrauens gegenüber anderen Knoten - etwas unsicherer.
 
 ## <a name="sternchen"></a>Was bedeuten die Sternchen?
 Einige der Aussagen sind nicht absolut richtig, was zu Recht auch von kritischen und informierten Lesern angemängelt werden könnte.
