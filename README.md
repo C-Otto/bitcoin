@@ -276,7 +276,7 @@ Namhafte US-Firmen wie Dell, Microsoft, Expedia und Overstock akzeptieren (teilw
 Für den deutschsprachigen Raum gibt es [diese interessante Liste](http://bitcoinblog.de/2016/01/11/die-bitcoin-shopping-liste/).
 Die Seite [coinmap.org](http://coinmap.org) zeigt außerdem Akzeptanzstellen auf einer Karte.
 
-## <a name="wo_kann_ich_bitcoin_bekommen"><a/>Wo kann ich Bitcoin bekommen?
+## <a name="wo_kann_ich_bitcoin_bekommen"></a>Wo kann ich Bitcoin bekommen?
 Eine einfache Möglichkeit ist, mit jemandem zu tauschen der bereits Bitcoin hat.
 
 In (nicht nur) Deutschland kann man sich bei [bitcoin.de](http://www.bitcoin.de) anmelden und einen Tauschpartner im Marktplatz finden.
