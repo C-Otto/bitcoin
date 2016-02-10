@@ -29,7 +29,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. [Wo kann ich Bitcoin bekommen?](#wo_kann_ich_bitcoin_bekommen)
 1. [Was bedeutet Bitcoin für die Banken?](#was_bedeutet_bitcoin_fuer_die_banken)
 1. [Vereinfacht Bitcoin Geldwäsche oder Drogenkauf?](#vereinfacht_bitcoin_geldwaesche_oder_drogenkauf)
-1. Was passiert, wenn keine neuen Bitcoin mehr erzeugt werden?
+1. [Was passiert, wenn keine neuen Bitcoin mehr erzeugt werden?](#was_passiert_wenn_keine_neuen_bitcoin_mehr_erzeugt_werden)
 1. Was heißt `Multi Signature`?
 1. Muss ich zum Benutzen die komplette Blockchain speichern?
 1. Was brauche ich auf meinem Computer oder Handy, um Bitcoin benutzen zu können?
@@ -311,7 +311,21 @@ Für Geldwäsche, wobei es im Normalfall um größere Summen geht, ergibt sich e
 Hinzu kommt, dass größere Beträge schwer zu tauschen sind bzw. entsprechende Angebote an den Börsen auffällig sind.
 Das aktuell geringe Handelsvolumen von Bitcoin macht Geldwäsche im großen Stil riskant und damit uninteressant.
  
-Im Vergleich zu Bargeld bietet Bitcoin zwar einige Vorteile insbesondere bei Online-Zahlungen, ist aber nicht uneingeschränkt für kriminelle Aktivitäten sinnvoll einsetzbar 
+Im Vergleich zu Bargeld bietet Bitcoin zwar einige Vorteile insbesondere bei Online-Zahlungen, ist aber nicht uneingeschränkt für kriminelle Aktivitäten sinnvoll einsetzbar
+
+## <a name="was_passiert_wenn_keine_neuen_bitcoin_mehr_erzeugt_werden"></a>Was passiert, wenn keine neuen Bitcoin mehr erzeugt werden?
+Wie der Antwort zur [Frage "Wie viele Bitcoin gibt es? Was ist mit Inflation?"](#wie_viele_bitcoin_gibt_es) beschrieben, wird ca. alle vier Jahre die Anzahl neu erzeugter Bitcoin pro Block halbiert.
+Ungefähr im Jahr 2140 werden somit keine neuen Bitcoin mehr erzeugt, wobei dann ca. 21 Millionen Bitcoin existieren.
+Je Bitcoin gibt es (aktuell) acht Nachkommastellen, so dass es dann rund 2,1 Billiarden Recheneinheiten gibt.
+
+Pro hinzugefügtem Block werden die neu erzeugten Bitcoin als [Belohnung an den jeweiligen Miner](#wie_wird_die_blockchain_aufgebaut) ausgezahlt.
+Zusätzlich werden die Gebühren der im Block enthaltenen Transaktionen ausgezahlt, was aktuell nur knapp 0,4 Bitcoin zusätzlich zu den neuen 25 Bitcoin ausmacht.
+
+Um die Kosten der Miner dauerhaft zu decken, ist es langfristig also nötig den Minern mehr Gebühren pro Block auszuzahlen.
+Eine Möglichkeit ist, dass die einzelnen Transaktionen teurer werden.
+Es ist aber auch denkbar, mehr Transaktionen in einem Block zu bestätigen, so dass die Gebühren pro Transaktion trotzdem gering sein können.
+
+Außerdem kann es für Marktteilnehmer, deren Geschäftsmodell auf Bitcoin basiert, sinnvoll sein auch ohne Kostendeckung Mining-Equipment zu betreiben.
 
 ## <a name="sternchen"></a>Was bedeuten die Sternchen?
 Einige der Aussagen sind nicht absolut richtig, was zu Recht auch von kritischen und informierten Lesern angemängelt werden könnte.
