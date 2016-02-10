@@ -30,7 +30,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. [Was bedeutet Bitcoin für die Banken?](#was_bedeutet_bitcoin_fuer_die_banken)
 1. [Vereinfacht Bitcoin Geldwäsche oder Drogenkauf?](#vereinfacht_bitcoin_geldwaesche_oder_drogenkauf)
 1. [Was passiert, wenn keine neuen Bitcoin mehr erzeugt werden?](#was_passiert_wenn_keine_neuen_bitcoin_mehr_erzeugt_werden)
-1. Was heißt `Multi Signature`?
+1. [Was heißt `Multi Signature` (oder `Multisig`)?](#was_heisst_multi_signature)
 1. Muss ich zum Benutzen die komplette Blockchain speichern?
 1. Was brauche ich auf meinem Computer oder Handy, um Bitcoin benutzen zu können?
 1. Wie speichere und sichere ich Bitcoin?
@@ -326,6 +326,20 @@ Eine Möglichkeit ist, dass die einzelnen Transaktionen teurer werden.
 Es ist aber auch denkbar, mehr Transaktionen in einem Block zu bestätigen, so dass die Gebühren pro Transaktion trotzdem gering sein können.
 
 Außerdem kann es für Marktteilnehmer, deren Geschäftsmodell auf Bitcoin basiert, sinnvoll sein auch ohne Kostendeckung Mining-Equipment zu betreiben.
+
+## <a name="was_heisst_multi_signature"></a>Was heißt `Multi Signature` (oder `Multisig`)?
+Mit `Signature` ist der Nachweis gemeint, mit dem man als Absender eine Transaktion als gültig bestätigt - analog zu der Unterschrift auf einem Überweisungsbeleg.
+Für normale Bitcoin-Transaktionen muss man _einen_ solchen Nachweis erbringen, damit die Transaktion durchgeführt werden kann.
+
+Es gibt allerdings auch Adressen, die nur dann für ausgehende Transaktionen benutzt werden können, wenn dieser Nachweis nicht nur aus einer Signatur besteht.
+Ein gängiger Fall ist "zwei von drei", wobei zwei beliebige von insgesamt drei Berechtigten jeweils eine Signatur für die Transaktion bereitstellen müssen.
+
+Dadurch kann man beispielsweise einen Treuhändler (engl. escrow) zusätzlich zu zwei Handelspartnern einbinden.
+Wenn sich beide Handelspartner einig sind und eine Transaktion gemeinsam signieren, wird diese durchgeführt.
+Bei Uneinigkeit kann aber auch der Treuhändler zusammen mit nur einem der beiden Handelspartner eine gültige Transaktion erzeugen.
+Alleine, also ohne Unterstützung wenigstens eines Handelspartners, hat der Treuhändler allerdings keinen Zugriff auf die jeweiligen Bitcoin.
+
+Zusätzlich zu "zwei von drei (2/3)" sind noch viele weitere Kombinationen möglich, beispielsweise 1/2, 2/2, 3/3, ...
 
 ## <a name="sternchen"></a>Was bedeuten die Sternchen?
 Einige der Aussagen sind nicht absolut richtig, was zu Recht auch von kritischen und informierten Lesern angemängelt werden könnte.
