@@ -32,7 +32,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. [Was passiert, wenn keine neuen Bitcoin mehr erzeugt werden?](#was_passiert_wenn_keine_neuen_bitcoin_mehr_erzeugt_werden)
 1. [Was heißt `Multi Signature` (oder `Multisig`)?](#was_heisst_multi_signature)
 1. [Muss ich zum Benutzen die komplette Blockchain speichern?](#muss_ich_zum_benutzen_die_komplette_blockchain_speichern)
-1. Was brauche ich auf meinem Computer oder Handy, um Bitcoin benutzen zu können?
+1. [Was brauche ich auf meinem Computer oder Handy, um Bitcoin benutzen zu können?](#was_brauche_ich_auf_meinem_computer_oder_handy_um_bitcoin_benutzen_zu_koennen)
 1. Wie speichere und sichere ich Bitcoin?
 1. Was sind `Smart Contracts`?
 
@@ -351,6 +351,18 @@ Diese kommen mit sehr wenig Speicher aus.
 Transaktionen werden beispielsweise durch Nachfragen bei den oben genannten Full Nodes überprüft.
 Dadurch wird zwar Speicherplatz gespart, dafür ist dieser Ansatz allerdings - aufgrund des nötigen Vertrauens gegenüber anderen Knoten - etwas unsicherer.
 
+## <a name="was_brauche_ich_auf_meinem_computer_oder_handy_um_bitcoin_benutzen_zu_koennen"></a>Was brauche ich auf meinem Computer oder Handy, um Bitcoin benutzen zu können?
+Generell braucht man ein Programm, das "Wallet" (Geldbörse) genannt wird.
+Aufgabe solcher Programme ist es, die verwendeten Adressen zu verwalten, eingehende Transaktionen als solche zu erkennen, und ausgehende Transaktionen nach Wunsch des Anwenders in das Netzwerk zu schicken.
+
+Eine Möglichkeit ist einen sogenannten ["Full Node"](#muss_ich_zum_benutzen_die_komplette_blockchain_speichern) zu betreiben.
+Dafür ist ["Bitcoin Core"](https://bitcoincore.org/) die Referenzimplementierung, wobei auch Alternativen wie ["Bitcoin Classic"](https://bitcoinclassic.com/) existieren.
+
+Auf [bitcoin.org](https://bitcoin.org/en/choose-your-wallet) gibt es auch für Android, iPhone und andere Smartphones eine Auflistung von weiteren Wallet-Implementierungen.
+
+Zusätzlich zu einer Wallet auf dem eigenen Gerät ist es auch möglich, die Bitcoins von einem Anbieter im Internet verwalten zu lassen.
+Der Zugriff ist dabei per Webseite, ggf. auch mit einer eigenen App, möglich.
+Hierbei sollte aber klar sein, dass man dabei nicht die volle Kontrolle über die "eigenen" Bitcoin hat, was insbesondere bei Hacks oder Betrug negativ auffallen kann.
 ## <a name="sternchen"></a>Was bedeuten die Sternchen?
 Einige der Aussagen sind nicht absolut richtig, was zu Recht auch von kritischen und informierten Lesern angemängelt werden könnte.
 An den Stellen, an denen die vollständig korrekte Erklärung zu weit gehen würde und die gewählte Formulierung trotzdem die Kernaussage ausdrückt, deutet ein Sternchen auf eine solche Inkorrektheit hin.
