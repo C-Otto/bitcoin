@@ -353,7 +353,7 @@ Dadurch wird zwar Speicherplatz gespart, dafür ist dieser Ansatz allerdings - a
 
 ## <a name="was_brauche_ich_auf_meinem_computer_oder_handy_um_bitcoin_benutzen_zu_koennen"></a>Was brauche ich auf meinem Computer oder Handy, um Bitcoin benutzen zu können?
 Generell braucht man ein Programm, das "Wallet" (Geldbörse) genannt wird.
-Aufgabe solcher Programme ist es, die verwendeten Adressen zu verwalten, eingehende Transaktionen als solche zu erkennen, und ausgehende Transaktionen nach Wunsch des Anwenders in das Netzwerk zu schicken.
+Aufgabe solcher Programme ist es, die verwendeten [Adressen](#sieht_jeder_meine_ueberweisungen) zu verwalten, eingehende Transaktionen als solche zu erkennen, und ausgehende Transaktionen nach Wunsch des Anwenders in das Netzwerk zu schicken.
 
 Eine Möglichkeit ist einen sogenannten ["Full Node"](#muss_ich_zum_benutzen_die_komplette_blockchain_speichern) zu betreiben.
 Dafür ist ["Bitcoin Core"](https://bitcoincore.org/) die Referenzimplementierung, wobei auch Alternativen wie ["Bitcoin Classic"](https://bitcoinclassic.com/) existieren.
