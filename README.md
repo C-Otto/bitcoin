@@ -125,7 +125,7 @@ Da jeder Teilnehmer auch (mit Hilfe von Bitcoin-Software) selbstständig diese A
 ## <a name="wie_viele_bitcoin_gibt_es"></a>Wie viele Bitcoin gibt es? Was ist mit Inflation?
 Aktuell, Anfang 2016, sind rund 14,7 Millionen Bitcoin im Umlauf, insgesamt wird es rund 21 Millionen Bitcoin geben.
 
-Teil des Bitcoin-Protokolls ist, dass regelmäßig neue Bitcoins erzeugt und in Umlauf gebracht werden.
+Teil des Bitcoin-Protokolls ist, dass regelmäßig neue Bitcoin erzeugt und in Umlauf gebracht werden.
 Die Grundidee ist, dass diese Neuschaffung alle vier Jahre halbiert wird.
 In den ersten vier Jahren, bis zum 28.11.2012, wurden insgesamt 50% aller jemals verfügbaren Bitcoin erzeugt.
 Seitdem, bis ca. Mitte 2016, werden weitere 25% erzeugt, und bis ca. 2020 noch einmal weitere 12,5%.
@@ -161,7 +161,7 @@ Damit die Miner trotzdem Blöcke hinzufügen, ist eine Belohnungs-Transaktion Te
 Pro Block werden (aktuell) 25 neu erzeugte Bitcoin an den Miner ausgezahlt.
 Der Miner kann diese Belohnung nach einer kurzen Wartezeit (100 Blöcke, die auf dem gefundenen Block aufbauen müssen) ausgeben und beispielsweise benutzen, um seine Stromrechnung zu zahlen.
 
-Wie in der Antwort zur Frage ["Wie viele Bitcoin gibt es? Was ist mit Inflation?"](#wie_viele_bitcoin_gibt_es) erwähnt, werden neue Bitcoins nicht mit einer konstanten Geschwindigkeit erzeugt.
+Wie in der Antwort zur Frage ["Wie viele Bitcoin gibt es? Was ist mit Inflation?"](#wie_viele_bitcoin_gibt_es) erwähnt, werden neue Bitcoin nicht mit einer konstanten Geschwindigkeit erzeugt.
 Bis zum 28.11.2012 hat jeder Block eine Belohnung von 50 Bitcoin enthalten, ab ca. Mitte 2016 wird die aktuelle Belohnung von 25 Bitcoin wieder halbiert, auf dann 12,5 Bitcoin.
 
 ## <a name="wie_sicher_ist_bitcoin"></a>Wie sicher ist Bitcoin?
@@ -228,7 +228,7 @@ Entsprechend gilt ja auch nicht "VISA wurde gehackt", wenn ein großer Anbieter 
 Ähnliches gilt, wenn einzelne Anbieter, die im Auftrag der Kunden Bitcoin verwahren, diese analog zu einem Bankeinbruch verlieren.
 
 Bitcoin funktioniert seit der Inbetriebnahme 2009 und ist nicht tot oder pleite.
-Angriffe auf das Bitcoin-Protokoll, so dass man Bitcoins beliebiger Teilnehmer stehlen konnte, gab es auch noch nicht.
+Angriffe auf das Bitcoin-Protokoll, so dass man Bitcoin beliebiger Teilnehmer stehlen konnte, gab es auch noch nicht.
 
 ## <a name="braucht_bitcoin_viel_strom"></a>Braucht Bitcoin viel Strom?
 Das [Erzeugen von Blöcken durch die Miner](#wie_wird_die_blockchain_aufgebaut) kostet Strom.
@@ -360,7 +360,7 @@ Dafür ist ["Bitcoin Core"](https://bitcoincore.org/) die Referenzimplementierun
 
 Auf [bitcoin.org](https://bitcoin.org/en/choose-your-wallet) gibt es auch für Android, iPhone und andere Smartphones eine Auflistung von weiteren Wallet-Implementierungen.
 
-Zusätzlich zu einer Wallet auf dem eigenen Gerät ist es auch möglich, die Bitcoins von einem Anbieter im Internet verwalten zu lassen.
+Zusätzlich zu einer Wallet auf dem eigenen Gerät ist es auch möglich, die Bitcoin von einem Anbieter im Internet verwalten zu lassen.
 Der Zugriff ist dabei per Webseite, ggf. auch mit einer eigenen App, möglich.
 Hierbei sollte aber klar sein, dass man dabei nicht die volle Kontrolle über die "eigenen" Bitcoin hat, was insbesondere bei Hacks oder Betrug negativ auffallen kann.
 
