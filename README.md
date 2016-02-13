@@ -118,9 +118,9 @@ Die Blockchain enthält jede Transaktion mit Angaben zu Quelle, Ziel, Betrag und
 Dementsprechend sind diese Details der Überweisung offen einsehbar.
 Während man bei klassischen Banken aber nur ein Konto oder eine Kreditkarte hat, generiert man bei Bitcoin generell viele solcher "Konten" (genannt Adressen).
 
-Dadurch, dass man hunderte bis tausende dieser Adressen benutzt und für jede Transaktion eine neue Adresse generieren kann, ist die Verknüpfung von einzelnen Adressen an konkrete Personen schwer.
+Dadurch, dass man hunderte bis tausende dieser Adressen benutzt und für jede Transaktion eine neue Adresse generieren kann, ist die [Verknüpfung von einzelnen Adressen an konkrete Personen schwer](#vereinfacht_bitcoin_geldwaesche_oder_drogenkauf).
 Für eine konkrete Überweisung kann ich zwar eine Adresse mit meinem Handelspartner verknüpfen, ich weiß allerdings nicht welche Adressen dieser zusätzlich verwaltet.
-Da jeder Teilnehmer auch (mit Hilfe von Bitcoin-Software) selbstständig diese Addressen verwaltet und es kein zentrales Register wie bei einer Bank gibt, ist das Bezahlen im Bitcoin-Netzwerk "pseudonym".
+Da jeder Teilnehmer auch (mit Hilfe von [Bitcoin-Software](#was_brauche_ich_auf_meinem_computer_oder_handy_um_bitcoin_benutzen_zu_koennen)) selbstständig diese Addressen verwaltet und es kein zentrales Register wie bei einer Bank gibt, ist das Bezahlen im Bitcoin-Netzwerk "pseudonym".
 
 ## <a name="wie_viele_bitcoin_gibt_es"></a>Wie viele Bitcoin gibt es? Was ist mit Inflation?
 Aktuell, Anfang 2016, sind rund 14,7 Millionen Bitcoin im Umlauf, insgesamt wird es rund 21 Millionen Bitcoin geben.
