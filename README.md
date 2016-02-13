@@ -409,7 +409,7 @@ Die Bitcoin können also ausgegeben werden, wenn
 Kurz vor Ablauf der drei Monate können die Geschäftsführer natürlich die Bitcoin auf eine neue Adresse überweisen, für die die drei Monate entsprechend später erst erreicht sind.
 
 ### Smart Contracts
-Smart Contracts sind Kombinationen von Kriterien, die für bestimmte Situationen hilfreich sind.
+Smart Contracts sind Kombinationen von automatisch überprüfbaren Kriterien.
 Ähnlich zu dem letzten Beispiel kann man auch Kriterien definieren, so dass ein Bitcoin-Betrag als Pfand eingeforen, aber nach einer bestimmten Zeit wieder ausgezahlt wird.
 Weiterhin kann man im Rahmen eines Crowdfunding Bitcoin spenden, die aber nur dann ausgegeben werden können wenn das angegebene Funding-Ziel erreicht wurde (und ansonsten automatisch an den Spender zurücküberwiesen werden).
 
