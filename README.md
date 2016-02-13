@@ -34,7 +34,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. [Muss ich zum Benutzen die komplette Blockchain speichern?](#muss_ich_zum_benutzen_die_komplette_blockchain_speichern)
 1. [Was brauche ich auf meinem Computer oder Handy, um Bitcoin benutzen zu können?](#was_brauche_ich_auf_meinem_computer_oder_handy_um_bitcoin_benutzen_zu_koennen)
 1. [Wie speichere und sichere ich Bitcoin?](#wie_speichere_und_sichere_ich_bitcoin)
-1. Was sind `Smart Contracts`?
+1. [Was sind `Smart Contracts`?](#was_sind_smart_contracts)
 
 ## Weitere Quellen
 - [Wie funktioniert Bitcoin? bitcoin.org](https://bitcoin.org/de/wie-es-funktioniert)
@@ -387,6 +387,38 @@ Mit den Wallets [Armory](https://bitcoinarmory.com/) und [Electrum](https://elec
 Sogenannte "Hardware Wallets" wie [Trezor](https://www.bitcointrezor.com/) und [Ledger](https://www.ledgerwallet.com/) verwalten die privaten Schlüssel innerhalb einer Art USB-Stick.
 Die Idee hierbei ist, dass die Daten auch bei ansonsten unsicheren Computern sicher aufbewahrt werden.
 Bei Hardware-Wallets muss man allerdings auch darauf achten, Backups anzufertigen und diese Sicher aufzubewahren.
+
+## <a name="was_sind_smart_contracts"></a>Was sind `Smart Contracts`?
+Um die Gültigkeit einer Bitcoin-Transaktion zu überprüfen, wird ein (sehr) kleines Programm ausgeführt.
+Im einfachen Fall muss man dafür nachweisen, dass man für die jeweilige Absender-Adresse die nötige Signatur mit Hilfe des passenden privaten Schlüssels erstellen kann.
+
+Man kann allerdings auch kompliziertere Bedingungen für Adressen formulieren.
+Eine Variante davon sind [MultiSig](#was_heisst_multi_signature)-Adressen, wobei die "m von n"-Bedingung überprüft wird.
+Um eine gültige Transaktion mit einer MultiSig-Absender-Adresse zu erzeugen, muss man für diese Überprüfung die richtigen privaten Schlüssel haben und die geforderten Signaturen bereitstellen.
+
+Das Prinzip von "m von n"-Bedingungen kann man aber auch noch erweitern, beispielsweise durch Kopplung an Bedingungen der Form "gültig erst nach X Tagen".
+
+### Beispiel
+Im folgenden Beispiel sollen die Bitcoin einer Firma mit zwei Geschäftsführern nur ausgegeben werden können, wenn beide Geschäftsführer zustimmen ("2 von 2"-MultiSig).
+Für den Fall dass einer der beiden Geschäftsführer stirbt, wird das Kriterium auf "2 von 3" erweitert, wobei die dritte Signatur von einem Anwalt bereitgestellt werden kann.
+Damit sich nicht einer der beiden Geschäftsführer mit dem Anwalt gegen den anderen Geschäftsführer verschwören kann, gilt die Erweiterung auf "2 von 3" aber erst nach drei Monaten.
+Die Bitcoin können also ausgegeben werden, wenn
+ - beide Geschäftsführer ihre Signatur bereitstellen ("2 von 2"), oder
+ - drei Monate vergangen sind UND zwei gültige Signaturen von den Geschäftsführern oder dem Anwalt bereitgestellt werden
+
+Kurz vor Ablauf der drei Monate können die Geschäftsführer natürlich die Bitcoin auf eine neue Adresse überweisen, für die die drei Monate entsprechend später erst erreicht sind.
+
+### Smart Contracts
+Smart Contracts sind Kombinationen von Kriterien, die für bestimmte Situationen hilfreich sind.
+Ähnlich zu dem letzten Beispiel kann man auch Kriterien definieren, so dass ein Bitcoin-Betrag als Pfand eingeforen, aber nach einer bestimmten Zeit wieder ausgezahlt wird.
+Weiterhin kann man im Rahmen eines Crowdfunding Bitcoin spenden, die aber nur dann ausgegeben werden können wenn das angegebene Funding-Ziel erreicht wurde (und ansonsten automatisch an den Spender zurücküberwiesen werden).
+
+Mit Bitcoin gibt es viele interessante Möglichkeiten für Smart Contracts.
+Bei allen Varianten ist es aber nicht möglich, auf äußere Ereignisse zu reagieren.
+Denkbar wären beispielsweise Bedingungen wie "Deutschland ist Fußball-Weltmeister 2018", "Eine Bitcoin ist 1000€ wert" oder "Queen Elizabeth II. ist tot".
+Um solche Aussagen treffen zu können, muss man (ggf. mehrere) Personen oder Dienste zur Hilfe nehmen, die im Wahrheitsfall entsprechende Signaturen beisteuern.
+Ein Betrug kann hier aber nicht ausgeschlossen werden.
+
 ## <a name="sternchen"></a>Was bedeuten die Sternchen?
 Einige der Aussagen sind nicht absolut richtig, was zu Recht auch von kritischen und informierten Lesern angemängelt werden könnte.
 An den Stellen, an denen die vollständig korrekte Erklärung zu weit gehen würde und die gewählte Formulierung trotzdem die Kernaussage ausdrückt, deutet ein Sternchen auf eine solche Inkorrektheit hin.
