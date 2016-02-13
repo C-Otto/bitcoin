@@ -33,7 +33,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. [Was heißt `Multi Signature` (oder `Multisig`)?](#was_heisst_multi_signature)
 1. [Muss ich zum Benutzen die komplette Blockchain speichern?](#muss_ich_zum_benutzen_die_komplette_blockchain_speichern)
 1. [Was brauche ich auf meinem Computer oder Handy, um Bitcoin benutzen zu können?](#was_brauche_ich_auf_meinem_computer_oder_handy_um_bitcoin_benutzen_zu_koennen)
-1. Wie speichere und sichere ich Bitcoin?
+1. [Wie speichere und sichere ich Bitcoin?](#wie_speichere_und_sichere_ich_bitcoin)
 1. Was sind `Smart Contracts`?
 
 ## Weitere Quellen
@@ -363,6 +363,30 @@ Auf [bitcoin.org](https://bitcoin.org/en/choose-your-wallet) gibt es auch für A
 Zusätzlich zu einer Wallet auf dem eigenen Gerät ist es auch möglich, die Bitcoins von einem Anbieter im Internet verwalten zu lassen.
 Der Zugriff ist dabei per Webseite, ggf. auch mit einer eigenen App, möglich.
 Hierbei sollte aber klar sein, dass man dabei nicht die volle Kontrolle über die "eigenen" Bitcoin hat, was insbesondere bei Hacks oder Betrug negativ auffallen kann.
+
+# <a name="wie_speichere_und_sichere_ich_bitcoin"></a>Wie speichere und sichere ich Bitcoin?
+Um Bitcoin ausgeben zu können, muss man für die jeweilige Absender-Adresse den zugehörigen privaten Schlüssel kennen.
+Für diesen Verwaltungs-Aufwand gibt es mehrere Software- und Hardware-Lösungen mit unterschiedlichen Eigenschaften.
+
+Normale [Wallet-Software](#was_brauche_ich_auf_meinem_computer_oder_handy_um_bitcoin_benutzen_zu_koennen) verwaltet sowohl die verwendeten Adressen als auch die zugehörigen Schlüssel.
+In den meisten Anwendungen kann man diese Information verschlüsselt abspeichern, so dass man vor einer Transaktion die zugehörige Passphrase (ein langes Passwort) eingeben muss.
+Die verschlüsselte Wallet-Datei sollte man natürlich durch Backups vor Computer-Diebstahl, Feuer und anderen Katastrophen sichern.
+**Insbesondere bei "Bitcoin Core" und den Ablegern wie "Bitcoin XT" und "Bitcoin Classic" sollte man diese Backups regelmäßig machen, da im Laufe der Zeit neue Adressen (mit neuen privaten Schlüsseln) generiert werden, die nicht in älteren Backups enthalten sind.**
+
+Je nachdem wie sehr man dem eigenen Computer oder Smartphone vertraut (Ist es ein aktuell gehaltenes Linuxsystem? Oder hat man ein Windows, bei dem man nicht so genau weiß was noch installiert ist?), kann diese Lösung in vielen Szenarien ausreichend sein.
+
+Wer lieber erfahrenen und auf dem Markt etablierten Anbietern vertraut, kann seine Bitcoin auch diesen überlassen.
+In diesem Fall sind die privaten Schlüssel beim Anbieter gespeichert, der diese idealerweise vor Hackern schützt.
+Mit Hilfe von [MultiSig](was_heisst_multi_signature)-Adressen, beispielsweise bei [GreenAddress](https://greenaddress.it/en/), kann man einen zusätzlicher Schutz vor Betrug oder Anbieter-Pleite erreichen.
+
+Insbesondere für höhere Beträge kann sich aber auch der Aufwand lohnen, die privaten Schlüssel auf Papier auszudrucken und diese Ausdrucke sicher und offline zu verwahren ("Cold Storage").
+Bei dieser Variante ist man vor Hacks geschützt, wenn der Computer beim Erstellen der Ausdrucke offline und "sauber" war und außerdem keine verwertbaren Spuren hinterlässt.
+Auch hier können [MultiSig](was_heisst_multi_signature)-Adressen zusätzliche Sicherheit bieten.
+Mit den Wallets [Armory](https://bitcoinarmory.com/) und [Electrum](https://electrum.org/) kann man leicht solche Ausdrucke anfertigen.
+
+Sogenannte "Hardware Wallets" wie [Trezor](https://www.bitcointrezor.com/) und [Ledger](https://www.ledgerwallet.com/) verwalten die privaten Schlüssel innerhalb einer Art USB-Stick.
+Die Idee hierbei ist, dass die Daten auch bei ansonsten unsicheren Computern sicher aufbewahrt werden.
+Bei Hardware-Wallets muss man allerdings auch darauf achten, Backups anzufertigen und diese Sicher aufzubewahren.
 ## <a name="sternchen"></a>Was bedeuten die Sternchen?
 Einige der Aussagen sind nicht absolut richtig, was zu Recht auch von kritischen und informierten Lesern angemängelt werden könnte.
 An den Stellen, an denen die vollständig korrekte Erklärung zu weit gehen würde und die gewählte Formulierung trotzdem die Kernaussage ausdrückt, deutet ein Sternchen auf eine solche Inkorrektheit hin.
