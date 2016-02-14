@@ -286,7 +286,7 @@ Die Smartphone-App Mycelium bietet einen Trader-Modus, in dem man Tauschpartner 
 Dazu wird auch eine [Online-Karte](https://www.mycelium.com/lt/m/) angeboten.
 
 International gibt es noch diverse andere Marktplätze und Börsen.
-An dieser Stelle sei nur auf [Coinbase](https://www.coinbase.com), [Circle](https:/www.circle.com), [Anycoin Direct](https://anycoindirect.eu), [Kraken](https://www.kraken.com/) und [Bitstamp](https://www.bitstamp.net/) verwiesen.
+An dieser Stelle sei nur auf [Coinbase](https://www.coinbase.com), [Circle](https://www.circle.com), [Anycoin Direct](https://anycoindirect.eu), [Kraken](https://www.kraken.com/) und [Bitstamp](https://www.bitstamp.net/) verwiesen.
 
 ## <a name="was_bedeutet_bitcoin_fuer_die_banken"></a>Was bedeutet Bitcoin für die Banken?
 Für Banken ist Bitcoin als Währung eher uninteressant.
