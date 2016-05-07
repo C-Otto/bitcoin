@@ -1,5 +1,4 @@
-# Bitcoin
-Ein Versuch, Bitcoin und die Blockchain verständlich zu erklären
+# Ein Versuch, Bitcoin und die Blockchain verständlich zu erklären
 
 ## Über diese Seite
 Das Ziel dieser Seite ist, interessieren Lesern möglichst verständliche Informationen zum Thema Bitcoin und Blockchain zu geben.
