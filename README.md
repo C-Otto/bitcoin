@@ -273,6 +273,7 @@ Da man nicht um Erlaubnis fragen muss, kann prinzipiell jeder Händler Bitcoin e
 Verschiedene Anbieter wie beispielsweise [Coinbase](https://www.coinbase.com) und [BitPay](https://www.bitpay.com) bieten Integrationen in vorhandene Shops an und zahlen den Händlern auf Wunsch den Gegenwert einer Bezahlung in Dollar bzw. Euro aus.
 
 Namhafte US-Firmen wie Dell, Microsoft, Expedia und Overstock akzeptieren (teilweise) Bitcoin.
+Computer-Spiele und auch Videos können im [Steam](http://store.steampowered.com/)-Store von Valve seit Mai 2016 auch mit Bitcoin bezahlt werden.
 Für den deutschsprachigen Raum gibt es [diese interessante Liste](http://bitcoinblog.de/2016/01/11/die-bitcoin-shopping-liste/).
 Die Seite [coinmap.org](http://coinmap.org) zeigt außerdem Akzeptanzstellen auf einer Karte.
 
