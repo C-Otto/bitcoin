@@ -252,6 +252,7 @@ Dieser Wert ist unabhängig von der Anzahl der Transaktionen, da die Schwierigke
 Für eine Bitcoin-Transaktion muss man die Empfängeradresse und den zu zahlenden Betrag kennen.
 Die Empfängeradresse, ähnlich zu einer IBAN oder PayPal-Adresse, kann vom Empfänger direkt genannt werden (Beispiel: `1Et6T7N6BA9vQB9MjrWRnaoT4dDtTtbfhU`).
 Üblich ist auch, die Adresse und ggf. auch den Betrag und eine Beschreibung in Form eines QR-Codes anzugeben, der mit Smartphone-Apps automatisch ausgewertet werden kann:
+
 <img src="qr.png">
 
 Eine weitere Möglichkeit ist die Übertragung der Daten per Nahfunk (NFC).
