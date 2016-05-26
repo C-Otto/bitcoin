@@ -291,11 +291,11 @@ An dieser Stelle sei nur auf [Coinbase](https://www.coinbase.com), [Circle](http
 
 ## <a name="was_bedeutet_bitcoin_fuer_die_banken"></a>Was bedeutet Bitcoin für die Banken?
 Für Banken ist Bitcoin als Währung eher uninteressant.
-Die Blockchain-Technologie allerdings bietet einige neue Möglichkeiten, die auch für Banken interessant sind.
+Die Blockchain-Technologie allerdings bietet einige Möglichkeiten, die auch für Banken interessant sind und als neu wahrgenommen werden (die Möglichkeiten existieren allerdings bereits seit spätestens 1999, [Quelle](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance#Practical_Byzantine_fault_tolerance)).
 
 Banken können in der Blockchain sofort sehen, dass bestimmte Werte übertragen wurden.
 Statt Bitcoin-Überweisungen könnte man mit der gleichen Technik prinzipiell auch Aktien oder andere Besitzrechte übertragen.
-Das Verwalten solcher Besitzrechte ist im klassischen Bankenumfeld kompliziert und teuer, da die Informationen unter Einbeziehung mehrerer Teilnehmer weitergereicht werden.
+Das Verwalten solcher Besitzrechte ist im klassischen Bankenumfeld kompliziert und teuer, da die Informationen mangels des nötigen Vertrauens der Marktteilnehmer untereinander nur unter Einbeziehung weiterer vertrauenswürdiger Teilnehmer (bspw. Clearinghäuser) weitergereicht werden.
 
 ## <a name = "vereinfacht_bitcoin_geldwaesche_oder_drogenkauf"></a>Vereinfacht Bitcoin Geldwäsche oder Drogenkauf?
 Drogen werden selten per Kreditkarte oder Banküberweisung gekauft, da hierbei Spuren hinterlassen werden.
