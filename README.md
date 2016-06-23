@@ -37,6 +37,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 
 ## Weitere Quellen
 - [Wie funktioniert Bitcoin? bitcoin.org](https://bitcoin.org/de/wie-es-funktioniert)
+- [Vortrag auf der ACATIS Value-Konferenz](https://www.youtube.com/watch?v=CNxXumeOxF0)
 - [p2pLabs Lecture #1: Bitcoin & Blockchain-Technologie](https://www.youtube.com/watch?v=jAuqoOwepl0)
 - [Analysis of hashrate-based double-spending](https://bitcoil.co.il/Doublespend.pdf)
 
