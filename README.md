@@ -423,10 +423,10 @@ Um solche Aussagen treffen zu können, muss man (ggf. mehrere) Personen oder Die
 Ein Betrug kann hier aber nicht ausgeschlossen werden.
 
 ## <a name="sternchen"></a>Was bedeuten die Sternchen?
-Einige der Aussagen sind nicht absolut richtig, was zu Recht auch von kritischen und informierten Lesern angemängelt werden könnte.
+Einige der Aussagen sind nicht absolut richtig, was zu Recht auch von kritischen und informierten Lesern angesprochen werden könnte.
 An den Stellen, an denen die vollständig korrekte Erklärung zu weit gehen würde und die gewählte Formulierung trotzdem die Kernaussage ausdrückt, deutet ein Sternchen auf eine solche Inkorrektheit hin.
 
-Im Kontext der IT gilt "Verschlüsselte E-Mails können nur Sender und Empfänger lesen" auch nicht immer.
+Als Beispiel, im Kontext der IT gilt "Verschlüsselte E-Mails können nur Sender und Empfänger lesen" auch nicht immer.
 Selbst bei guten Verschlüsselungsverfahren kann man mit extrem hohem Rechenaufwand (mehr, als selbst der NSA physikalisch möglich ist) jede Nachricht entschlüsseln.
 Hier würde deshalb "Verschlüsselte E-Mails können nur* Sender und Empfänger lesen" stehen. 
 
