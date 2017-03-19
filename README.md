@@ -105,7 +105,7 @@ Der Kurs entsteht durch Angebot und Nachfrage, ausgehend von Argumenten wie der 
 Dementsprechend hatte eine Bitcoin kurz nach der ersten Transaktion im Jahr 2009 keinen Kurs (bzw. 0,00€).
 Im Mai 2010 wurde für 10.000 Bitcoin Pizza bestellt, der damalige Kurs lag also bei etwa 0,03€ pro Bitcoin.
 
-Durch ein besseres Verständnis des Sicherheitskonzepts und der Vorteile einer digitalen Währung, und natürlich auch
+Durch ein besseres Verständnis des Sicherheitskonzepts und der Vorteile einer digitalen Bezahlmöglichkeit, und natürlich auch
 der Software-Weiterentwicklung, aber auch Spekulation und "Hype", hat sich der Preis in den letzten Jahren mit einigen
 starken Schwankungen entwickelt und liegt aktuell bei mehreren hundert Euro pro Bitcoin.
 
@@ -291,7 +291,7 @@ International gibt es noch diverse andere Marktplätze und Börsen.
 An dieser Stelle sei nur auf [Coinbase](https://www.coinbase.com), [Circle](https://www.circle.com), [Anycoin Direct](https://anycoindirect.eu), [Kraken](https://www.kraken.com/) und [Bitstamp](https://www.bitstamp.net/) verwiesen.
 
 ## <a name="was_bedeutet_bitcoin_fuer_die_banken"></a>Was bedeutet Bitcoin für die Banken?
-Für Banken ist Bitcoin als Währung eher uninteressant.
+Für Banken ist Bitcoin als Bezahlmöglichkeit eher uninteressant.
 Die Blockchain-Technologie allerdings bietet einige Möglichkeiten, die auch für Banken interessant sind und als neu wahrgenommen werden (die Möglichkeiten existieren allerdings bereits seit spätestens 1999, [Quelle](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance#Practical_Byzantine_fault_tolerance)).
 
 Banken können in der Blockchain sofort sehen, dass bestimmte Werte übertragen wurden.
