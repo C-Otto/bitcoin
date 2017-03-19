@@ -389,7 +389,7 @@ Mit den Wallets [Armory](https://bitcoinarmory.com/) und [Electrum](https://elec
 
 Sogenannte "Hardware Wallets" wie [Trezor](https://www.bitcointrezor.com/) und [Ledger](https://www.ledgerwallet.com/) verwalten die privaten Schlüssel innerhalb einer Art USB-Stick.
 Die Idee hierbei ist, dass die Daten auch bei ansonsten unsicheren Computern sicher aufbewahrt werden.
-Bei Hardware-Wallets muss man allerdings auch darauf achten, Backups anzufertigen und diese Sicher aufzubewahren.
+Bei Hardware-Wallets muss man allerdings auch darauf achten, Backups anzufertigen und diese sicher aufzubewahren.
 
 ## <a name="was_sind_smart_contracts"></a>Was sind `Smart Contracts`?
 Um die Gültigkeit einer Bitcoin-Transaktion zu überprüfen, wird ein (sehr) kleines Programm ausgeführt.
