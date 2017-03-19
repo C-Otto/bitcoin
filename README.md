@@ -233,7 +233,7 @@ Angriffe auf das Bitcoin-Protokoll, so dass man Bitcoin beliebiger Teilnehmer st
 ## <a name="braucht_bitcoin_viel_strom"></a>Braucht Bitcoin viel Strom?
 Das [Erzeugen von Blöcken durch die Miner](#wie_wird_die_blockchain_aufgebaut) kostet Strom.
 Da in diesem Prozess bei dem Versuch eine passende Zahl zu finden nur ansonsten sinnlose Prüfsummen berechnet werden, könnte man diesen Schritt auch weglassen oder ersetzen und dadurch Strom und Aufwand sparen.
-Wichtig für die Sicherheit im Bitcoin-Netzwerk ist allerdings, dass ein potenzieller Angreifer nicht nach Beliebigen Blöcke hinzufügen kann.
+Wichtig für die Sicherheit im Bitcoin-Netzwerk ist allerdings, dass ein potenzieller Angreifer nicht nach Belieben Blöcke hinzufügen kann.
 
 Für das Hinzufügen eines Blockes muss Rechenkraft und damit Energie investiert werden.
 Je mehr Energie durch die Mehrheit der ehrlichen Miner investiert wird, desto mehr Energie muss ein Angreifer investieren um mit hoher Wahrscheinlichkeit eigene Blöcke zu erzeugen.
