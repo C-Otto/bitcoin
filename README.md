@@ -123,12 +123,12 @@ Für eine konkrete Überweisung kann ich zwar eine Adresse mit meinem Handelspar
 Da jeder Teilnehmer auch (mit Hilfe von [Bitcoin-Software](#was_brauche_ich_auf_meinem_computer_oder_handy_um_bitcoin_benutzen_zu_koennen)) selbstständig diese Addressen verwaltet und es kein zentrales Register wie bei einer Bank gibt, ist das Bezahlen im Bitcoin-Netzwerk "pseudonym".
 
 ## <a name="wie_viele_bitcoin_gibt_es"></a>Wie viele Bitcoin gibt es? Was ist mit Inflation?
-Aktuell, Anfang 2016, sind rund 14,7 Millionen Bitcoin im Umlauf, insgesamt wird es rund 21 Millionen Bitcoin geben.
+Aktuell, März 2017, sind rund 16,2 Millionen Bitcoin im Umlauf, insgesamt wird es rund 21 Millionen Bitcoin geben.
 
 Teil des Bitcoin-Protokolls ist, dass regelmäßig neue Bitcoin erzeugt und in Umlauf gebracht werden.
 Die Grundidee ist, dass diese Neuschaffung alle vier Jahre halbiert wird.
 In den ersten vier Jahren, bis zum 28.11.2012, wurden insgesamt 50% aller jemals verfügbaren Bitcoin erzeugt.
-Seitdem, bis ca. Mitte 2016, werden weitere 25% erzeugt, und bis ca. 2020 noch einmal weitere 12,5%.
+Danach, bis zum 09.07.2016, wurden weitere 25% erzeugt, und bis ca. 2020 werden weitere 12,5%.
 Die letzten 12,5% werden entsprechend über die darauf folgenden Jahre erzeugt.
 
 Die Inflation ist also Teil des Protokolls, und man kann mit hoher Genauigkeit ausrechnen, wie viele Bitcoin es zu einem bestimmten Termin gibt.
@@ -158,11 +158,12 @@ Das wiederholt sich, bis die Prüfsumme passt oder ein neuer gültiger Block emp
 
 Dieser Aufwand bedeutet für die Miner immense Strom- und Hardwarekosten, ist aber für die [Sicherheit von Bitcoin](#wie_sicher_ist_bitcoin) essentiell.
 Damit die Miner trotzdem Blöcke hinzufügen, ist eine Belohnungs-Transaktion Teil eines jeden erzeugten Blocks:
-Pro Block werden (aktuell) 25 neu erzeugte Bitcoin an den Miner ausgezahlt.
+Pro Block werden (aktuell) 12,5 neu erzeugte Bitcoin an den Miner ausgezahlt.
 Der Miner kann diese Belohnung nach einer kurzen Wartezeit (100 Blöcke, die auf dem gefundenen Block aufbauen müssen) ausgeben und beispielsweise benutzen, um seine Stromrechnung zu zahlen.
 
 Wie in der Antwort zur Frage ["Wie viele Bitcoin gibt es? Was ist mit Inflation?"](#wie_viele_bitcoin_gibt_es) erwähnt, werden neue Bitcoin nicht mit einer konstanten Geschwindigkeit erzeugt.
-Bis zum 28.11.2012 hat jeder Block eine Belohnung von 50 Bitcoin enthalten, ab ca. Mitte 2016 wird die aktuelle Belohnung von 25 Bitcoin wieder halbiert, auf dann 12,5 Bitcoin.
+Bis zum 28.11.2012 hat jeder Block eine Belohnung von 50 Bitcoin enthalten.
+Bis zum 09.07.2016 wurden 25 Bitcoin pro Block ausgezahlt, seitdem (bis Mitte 2020) sind es 12,5 Bitcoin.
 
 ## <a name="wie_sicher_ist_bitcoin"></a>Wie sicher ist Bitcoin?
 Zum Thema Sicherheit gibt es diverse Fragestellungen.
@@ -199,7 +200,7 @@ Bei gleicher Stärke des Angreifers reichen schon 5-6 Bestätigungen, um Angriff
 ## <a name="wie_skaliert_bitcoin"></a>Wie skaliert Bitcoin?
 Da alle Transaktionen an alle Teilnehmer geschickt werden, und diese alle Transaktionen speichern, kann das Bitcoin-Netzwerk nur eine begrenzte Anzahl von Transaktionen pro Sekunde bewältigen.
 
-Der Speicherverbrauch ist aktuell vergleichsweise unproblematisch, alle Bitcoin-Transaktionen von 2009 bis Anfang 2016 verbrauchen ca. 60 GByte an Festplatten-Platz.
+Der Speicherverbrauch ist aktuell vergleichsweise unproblematisch, alle Bitcoin-Transaktionen von 2009 bis März 2017 verbrauchen ca. 115 GByte an Festplatten-Platz.
 Festplatten sind viel größer (und werden immer größer), außerdem kann man beispielsweise mit Mobilgeräten auch bezahlen ohne diese Daten lokal vorzuhalten. 
 
 Aktuell ist Bitcoin auf ca. 3-4 Transaktionen pro Sekunde begrenzt, während das VISA-Netzwerk durchgehend ca. 2.000 Transaktionen pro Sekunde bewältigt.
@@ -216,8 +217,10 @@ Stattdessen sind Modelle in der Entwicklung, die auf die Sicherheit der Bitcoin-
 
 ## <a name="was_sind_micropayments"></a>Was sind Micropayments?
 Micropayments sind Transaktionen von Kleinstbeträgen, welche es aufgrund der hohen Kosten im klassischen Umfeld mit Kreditkarten und PayPal eher wenig gibt.
-Um per Bitcoin beispielsweise 0,20€ zu überweisen muss[*](#sternchen) man aktuell weniger als einen Euro-Cent an Transaktionsgebühren zuzahlen.
-Dadurch ist es leicht möglich, einzelne Käufe wie Zeitungsartikel oder Fotos bequem zu bezahlen, oder Kleinstspenden ähnlich einem Facebook-Like zu verteilen.
+Bis ca. Ende 2016 war es möglich, beispielsweise 0,20€ per Bitcoin zu überweisen und dafür weniger als einen Euro-Cent an Transaktionsgebühren zu zahlen.
+Dadurch war es leicht möglich, einzelne Käufe wie Zeitungsartikel oder Fotos bequem zu bezahlen, oder Kleinstspenden ähnlich einem Facebook-Like zu verteilen.
+
+In der aktuellen Situation (siehe [Wie skaliert Bitcoin?](#wie_skaliert_bitcoin)) sind Micropayments allerdings nicht mehr ökonomisch sinnvoll durchzuführen.
 
 ## <a name="wurde_bitcoin_gehackt"></a>Wurde Bitcoin gehackt? Ist Bitcoin pleite? Wurden Bitcoin-Kunden betrogen?
 In den Nachrichten findet man leider häufig Berichte über Bitcoin-Pleiten, Betrug, Hacks und ähnliches.
@@ -242,10 +245,10 @@ Dies ist ein großer Vorteil gegenüber beispielsweise der Möglichkeit, das Hin
 Ein Angreifer könnte mit geringem Aufwand eine nahezu unbegrenzte Anzahl von Teilnehmer-Rechnern starten oder deren Existenz vortäuschen.
 Energie lässt sich allerdings nicht kopieren oder fälschen.
 
-Aktuell (Anfang 2016) werden global, aufsummiert über alle Miner, ca. 832 x 10^15 (832.000.000.000.000.000) Prüfsummenberechnungen pro Sekunde durchgeführt.
-Ein effizienter Miner (AntMiner S7) schafft 4 x 10^9 Hashes/Joule.
-Damit verbrauchen alle Miner zusammen mindestens 208 Megawatt.
-Da nicht alle Miner so effizient arbeiten, ist ein Verbrauch von 300 MW realistischer.
+Aktuell (März 2017) werden global, aufsummiert über alle Miner, ca. 3,3 x 10^18 (3.300.000.000.000.000.000) Prüfsummenberechnungen pro Sekunde durchgeführt.
+Ein effizienter Miner (AntMiner S9) schafft 10 x 10^9 Hashes/Joule.
+Damit verbrauchen alle Miner zusammen mindestens 330 Megawatt.
+Da nicht alle Miner so effizient arbeiten, ist ein höherer Verbrauch realistischer.
 
 Dieser Wert ist unabhängig von der Anzahl der Transaktionen, da die Schwierigkeit einen Block hinzuzufügen nur aus der Erzeugungs-Geschwindigkeit der vorherigen Blöcke berechnet wird.
 
@@ -274,7 +277,7 @@ Da man nicht um Erlaubnis fragen muss, kann prinzipiell jeder Händler Bitcoin e
 Verschiedene Anbieter wie beispielsweise [Coinbase](https://www.coinbase.com) und [BitPay](https://www.bitpay.com) bieten Integrationen in vorhandene Shops an und zahlen den Händlern auf Wunsch den Gegenwert einer Bezahlung in Dollar bzw. Euro aus.
 
 Namhafte US-Firmen wie Dell, Microsoft, Expedia und Overstock akzeptieren (teilweise) Bitcoin.
-Computer-Spiele und auch Videos können im [Steam](http://store.steampowered.com/)-Store von Valve seit Mai 2016 auch mit Bitcoin bezahlt werden.
+Computer-Spiele und auch Videos können im [Steam](http://store.steampowered.com/)-Store von Valve auch mit Bitcoin bezahlt werden.
 Für den deutschsprachigen Raum gibt es [diese interessante Liste](http://bitcoinblog.de/2016/01/11/die-bitcoin-shopping-liste/).
 Die Seite [coinmap.org](http://coinmap.org) zeigt außerdem Akzeptanzstellen auf einer Karte.
 
@@ -288,7 +291,7 @@ Die Smartphone-App Mycelium bietet einen Trader-Modus, in dem man Tauschpartner 
 Dazu wird auch eine [Online-Karte](https://www.mycelium.com/lt/m/) angeboten.
 
 International gibt es noch diverse andere Marktplätze und Börsen.
-An dieser Stelle sei nur auf [Coinbase](https://www.coinbase.com), [Circle](https://www.circle.com), [Anycoin Direct](https://anycoindirect.eu), [Kraken](https://www.kraken.com/) und [Bitstamp](https://www.bitstamp.net/) verwiesen.
+An dieser Stelle sei nur auf [Coinbase](https://www.coinbase.com), [Anycoin Direct](https://anycoindirect.eu), [Kraken](https://www.kraken.com/) und [Bitstamp](https://www.bitstamp.net/) verwiesen.
 
 ## <a name="was_bedeutet_bitcoin_fuer_die_banken"></a>Was bedeutet Bitcoin für die Banken?
 Für Banken ist Bitcoin als Bezahlmöglichkeit eher uninteressant.
@@ -321,7 +324,7 @@ Ungefähr im Jahr 2140 werden somit keine neuen Bitcoin mehr erzeugt, wobei dann
 Je Bitcoin gibt es (aktuell) acht Nachkommastellen, so dass es dann rund 2,1 Billiarden Recheneinheiten gibt.
 
 Pro hinzugefügtem Block werden die neu erzeugten Bitcoin als [Belohnung an den jeweiligen Miner](#wie_wird_die_blockchain_aufgebaut) ausgezahlt.
-Zusätzlich werden die Gebühren der im Block enthaltenen Transaktionen ausgezahlt, was aktuell nur knapp 0,4 Bitcoin zusätzlich zu den neuen 25 Bitcoin ausmacht.
+Zusätzlich werden die Gebühren der im Block enthaltenen Transaktionen ausgezahlt, was aktuell (März 2017) nur knapp 1,2 Bitcoin zusätzlich zu den neuen 12,5 Bitcoin ausmacht.
 
 Um die Kosten der Miner dauerhaft zu decken, ist es langfristig also nötig den Minern mehr Gebühren pro Block auszuzahlen.
 Eine Möglichkeit ist, dass die einzelnen Transaktionen teurer werden.
@@ -345,7 +348,7 @@ Alleine, also ohne Unterstützung wenigstens eines Handelspartners, hat der Treu
 Zusätzlich zu "zwei von drei (2/3)" sind noch viele weitere Kombinationen möglich, beispielsweise 1/2, 2/2, 3/3, ...
 
 ## <a name="muss_ich_zum_benutzen_die_komplette_blockchain_speichern"></a>Muss ich zum Benutzen die komplette Blockchain speichern?
-Aktuell ist die vollständige Blockchain ca. 60 GByte groß.
+Aktuell ist die vollständige Blockchain ca. 115 GByte groß.
 Die darin enthaltenen Daten reichen aus, ohne weitere Unterstützung Transaktionen auf ihre Gültigkeit zu überprüfen.
 Für größere Summen oder Firmen ist es also empfehlenswert, einen Bitcoin-Knoten mit der vollen Blockchain ("Full Node") zu betreiben und zur Verifikation zu nutzen.
 
@@ -353,6 +356,8 @@ Es ist allerdings auch möglich, beispielsweise auf Handys oder auch Computern, 
 Diese kommen mit sehr wenig Speicher aus.
 Transaktionen werden beispielsweise durch Nachfragen bei den oben genannten Full Nodes überprüft.
 Dadurch wird zwar Speicherplatz gespart, dafür ist dieser Ansatz allerdings - aufgrund des nötigen Vertrauens gegenüber anderen Knoten - etwas unsicherer.
+
+Zusätzlich kann man in aktueller Knoten-Software einstellen, dass zwar die komplette Blockchain verarbeitet (und dafür heruntergeladen) wird, aber nur ein kleiner aktueller Teil davon auf der Festplatte gespeichert wird ("pruning").
 
 ## <a name="was_brauche_ich_auf_meinem_computer_oder_handy_um_bitcoin_benutzen_zu_koennen"></a>Was brauche ich auf meinem Computer oder Handy, um Bitcoin benutzen zu können?
 Generell braucht man ein Programm, das "Wallet" (Geldbörse) genannt wird.
@@ -374,7 +379,6 @@ Für diesen Verwaltungs-Aufwand gibt es mehrere Software- und Hardware-Lösungen
 Normale [Wallet-Software](#was_brauche_ich_auf_meinem_computer_oder_handy_um_bitcoin_benutzen_zu_koennen) verwaltet sowohl die verwendeten Adressen als auch die zugehörigen Schlüssel.
 In den meisten Anwendungen kann man diese Information verschlüsselt abspeichern, so dass man vor einer Transaktion die zugehörige Passphrase (ein langes Passwort) eingeben muss.
 Die verschlüsselte Wallet-Datei sollte man natürlich durch Backups vor Computer-Diebstahl, Feuer und anderen Katastrophen sichern.
-**Insbesondere bei "Bitcoin Core" und den Ablegern wie "Bitcoin XT" und "Bitcoin Classic" sollte man diese Backups regelmäßig machen, da im Laufe der Zeit neue Adressen (mit neuen privaten Schlüsseln) generiert werden, die nicht in älteren Backups enthalten sind.**
 
 Je nachdem wie sehr man dem eigenen Computer oder Smartphone vertraut (Ist es ein aktuell gehaltenes Linuxsystem? Oder hat man ein Windows, bei dem man nicht so genau weiß was noch installiert ist?), kann diese Lösung in vielen Szenarien ausreichend sein.
 
@@ -418,7 +422,7 @@ Weiterhin kann man im Rahmen eines Crowdfunding Bitcoin spenden, die aber nur da
 
 Mit Bitcoin gibt es viele interessante Möglichkeiten für Smart Contracts.
 Bei allen Varianten ist es aber nicht möglich, auf äußere Ereignisse zu reagieren.
-Denkbar wären beispielsweise Bedingungen wie "Deutschland ist Fußball-Weltmeister 2018", "Eine Bitcoin ist 1000€ wert" oder "Queen Elizabeth II. ist tot".
+Denkbar wären beispielsweise Bedingungen wie "Deutschland ist Fußball-Weltmeister 2018", "Eine Bitcoin ist 10.000€ wert" oder "Queen Elizabeth II. ist tot".
 Um solche Aussagen treffen zu können, muss man (ggf. mehrere) Personen oder Dienste zur Hilfe nehmen, die im Wahrheitsfall entsprechende Signaturen beisteuern.
 Ein Betrug kann hier aber nicht ausgeschlossen werden.
 
