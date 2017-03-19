@@ -29,11 +29,11 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 1. [Was bedeutet Bitcoin für die Banken?](#was_bedeutet_bitcoin_fuer_die_banken)
 1. [Vereinfacht Bitcoin Geldwäsche oder Drogenkauf?](#vereinfacht_bitcoin_geldwaesche_oder_drogenkauf)
 1. [Was passiert, wenn keine neuen Bitcoin mehr erzeugt werden?](#was_passiert_wenn_keine_neuen_bitcoin_mehr_erzeugt_werden)
-1. [Was heißt `Multi Signature` (oder `Multisig`)?](#was_heisst_multi_signature)
+1. [Was heißt "Multi Signature" (oder "Multisig")?](#was_heisst_multi_signature)
 1. [Muss ich zum Benutzen die komplette Blockchain speichern?](#muss_ich_zum_benutzen_die_komplette_blockchain_speichern)
 1. [Was brauche ich auf meinem Computer oder Handy, um Bitcoin benutzen zu können?](#was_brauche_ich_auf_meinem_computer_oder_handy_um_bitcoin_benutzen_zu_koennen)
 1. [Wie speichere und sichere ich Bitcoin?](#wie_speichere_und_sichere_ich_bitcoin)
-1. [Was sind `Smart Contracts`?](#was_sind_smart_contracts)
+1. [Was sind "Smart Contracts"?](#was_sind_smart_contracts)
 
 ## Weitere Quellen
 - [Wie funktioniert Bitcoin? bitcoin.org](https://bitcoin.org/de/wie-es-funktioniert)
@@ -332,8 +332,8 @@ Es ist aber auch denkbar, mehr Transaktionen in einem Block zu bestätigen, so d
 
 Außerdem kann es für Marktteilnehmer, deren Geschäftsmodell auf Bitcoin basiert, sinnvoll sein auch ohne Kostendeckung Mining-Equipment zu betreiben.
 
-## <a name="was_heisst_multi_signature"></a>Was heißt `Multi Signature` (oder `Multisig`)?
-Mit `Signature` ist der Nachweis gemeint, mit dem man als Absender eine Transaktion als gültig bestätigt - analog zu der Unterschrift auf einem Überweisungsbeleg.
+## <a name="was_heisst_multi_signature"></a>Was heißt "Multi Signature" (oder "Multisig")?
+Mit "Signature" ist der Nachweis gemeint, mit dem man als Absender eine Transaktion als gültig bestätigt - analog zu der Unterschrift auf einem Überweisungsbeleg.
 Für normale Bitcoin-Transaktionen muss man _einen_ solchen Nachweis erbringen, damit die Transaktion durchgeführt werden kann.
 
 Es gibt allerdings auch Adressen, die nur dann für ausgehende Transaktionen benutzt werden können, wenn dieser Nachweis nicht nur aus einer Signatur besteht.
@@ -395,7 +395,7 @@ Sogenannte "Hardware Wallets" wie [Trezor](https://www.bitcointrezor.com/) und [
 Die Idee hierbei ist, dass die Daten auch bei ansonsten unsicheren Computern sicher aufbewahrt werden.
 Bei Hardware-Wallets muss man allerdings auch darauf achten, Backups anzufertigen und diese sicher aufzubewahren.
 
-## <a name="was_sind_smart_contracts"></a>Was sind `Smart Contracts`?
+## <a name="was_sind_smart_contracts"></a>Was sind "Smart Contracts"?
 Um die Gültigkeit einer Bitcoin-Transaktion zu überprüfen, wird ein (sehr) kleines Programm ausgeführt.
 Im einfachen Fall muss man dafür nachweisen, dass man für die jeweilige Absender-Adresse die nötige Signatur mit Hilfe des passenden privaten Schlüssels erstellen kann.
 
