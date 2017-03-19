@@ -267,7 +267,7 @@ Sekunden später sieht der Empfänger bereits die Transaktion, und nach wenigen[
 Da man als Teilnehmer im Bitcoin-Netzwerk normalerweise mehrere Adressen benutzt, wählt das verwendete Programm automatisch aus den zur Verfügung stehenden Adressen.
 Man muss deshalb die Absende-Adresse nicht selber angeben.
 Im Normalfall werden sogar mehrere Absende-Adressen kombiniert, wobei als Teil der eigentlichen Transaktion "Wechselgeld" an eine neu generierte Adresse überwiesen wird.
-Aber auch dies wird von den jeweiligen Programmen automatisch erledigt und ist aber für den Anwender nicht direkt sichtbar. 
+Aber auch dies wird von den jeweiligen Programmen automatisch erledigt und ist für den Anwender nicht direkt sichtbar.
 
 ## <a name="wo_kann_ich_mit_bitcoin_bezahlen"></a>Wo kann ich mit Bitcoin bezahlen?
 Da man nicht um Erlaubnis fragen muss, kann prinzipiell jeder Händler Bitcoin entgegennehmen.
