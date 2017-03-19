@@ -334,7 +334,8 @@ Mit `Signature` ist der Nachweis gemeint, mit dem man als Absender eine Transakt
 Für normale Bitcoin-Transaktionen muss man _einen_ solchen Nachweis erbringen, damit die Transaktion durchgeführt werden kann.
 
 Es gibt allerdings auch Adressen, die nur dann für ausgehende Transaktionen benutzt werden können, wenn dieser Nachweis nicht nur aus einer Signatur besteht.
-Ein gängiger Fall ist "zwei von drei", wobei zwei beliebige von insgesamt drei Berechtigten jeweils eine Signatur für die Transaktion bereitstellen müssen.
+Dies entspricht in etwa Partner-Konten, bei denen beide Partner jede Überweisung per PIN/TAN bestätigen müssen.
+Ein gängiger Fall für Multisig ist "zwei von drei", wobei zwei beliebige von insgesamt drei Berechtigten jeweils eine Signatur für die Transaktion bereitstellen müssen.
 
 Dadurch kann man beispielsweise einen Treuhändler (engl. escrow) zusätzlich zu zwei Handelspartnern einbinden.
 Wenn sich beide Handelspartner einig sind und eine Transaktion gemeinsam signieren, wird diese durchgeführt.
