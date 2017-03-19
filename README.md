@@ -107,7 +107,7 @@ Im Mai 2010 wurde für 10.000 Bitcoin Pizza bestellt, der damalige Kurs lag also
 
 Durch ein besseres Verständnis des Sicherheitskonzepts und der Vorteile einer digitalen Bezahlmöglichkeit, und natürlich auch
 der Software-Weiterentwicklung, aber auch Spekulation und "Hype", hat sich der Preis in den letzten Jahren mit einigen
-starken Schwankungen entwickelt und liegt aktuell bei rund 1,000 Euro pro Bitcoin.
+starken Schwankungen entwickelt und liegt aktuell bei rund 1.000 Euro pro Bitcoin.
 
 Den aktuellen Kurs kann man beispielsweise unter [bitcoin.de](https://www.bitcoin.de/de/) einsehen:
 
