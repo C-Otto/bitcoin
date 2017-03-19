@@ -380,7 +380,7 @@ Je nachdem wie sehr man dem eigenen Computer oder Smartphone vertraut (Ist es ei
 
 Wer lieber erfahrenen und auf dem Markt etablierten Anbietern vertraut, kann seine Bitcoin auch diesen überlassen.
 In diesem Fall sind die privaten Schlüssel beim Anbieter gespeichert, der diese idealerweise vor Hackern schützt.
-Mit Hilfe von [MultiSig](#was_heisst_multi_signature)-Adressen, beispielsweise bei [GreenAddress](https://greenaddress.it/en/), kann man einen zusätzlicher Schutz vor Betrug oder Anbieter-Pleite erreichen.
+Mit Hilfe von [MultiSig](#was_heisst_multi_signature)-Adressen, beispielsweise bei [GreenAddress](https://greenaddress.it/en/), kann man einen zusätzlichen Schutz vor Betrug oder Anbieter-Pleite erreichen.
 
 Insbesondere für höhere Beträge kann sich aber auch der Aufwand lohnen, die privaten Schlüssel auf Papier auszudrucken und diese Ausdrucke sicher und offline zu verwahren ("Cold Storage").
 Bei dieser Variante ist man vor Hacks geschützt, wenn der Computer beim Erstellen der Ausdrucke offline und "sauber" war und außerdem keine verwertbaren Spuren hinterlässt.
