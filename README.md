@@ -1,7 +1,7 @@
 # Ein Versuch, Bitcoin und die Blockchain verständlich zu erklären
 
 ## Über diese Seite
-Das Ziel dieser Seite ist, interessieren Lesern möglichst verständliche Informationen zum Thema Bitcoin und Blockchain zu geben.
+Das Ziel dieser Seite ist, interessierten Lesern möglichst verständliche Informationen zum Thema Bitcoin und Blockchain zu geben.
 Dabei werden neben Grundlagen auch interessante Details erklärt, die häufig falsch verstanden und in Artikeln falsch präsentiert werden.
 
 Diese Seite lebt von Mitarbeit und Kritik. Ergänzungen, Korrekturen und Ähnliches dürfen gerne per [Pull Request](https://github.com/C-Otto/bitcoin/pulls) eingebracht werden.
