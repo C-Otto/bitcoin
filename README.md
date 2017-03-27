@@ -109,7 +109,7 @@ Durch ein besseres Verständnis des Sicherheitskonzepts und der Vorteile einer d
 der Software-Weiterentwicklung, aber auch Spekulation und "Hype", hat sich der Preis in den letzten Jahren mit einigen
 starken Schwankungen entwickelt und liegt aktuell bei rund 1.000 Euro pro Bitcoin.
 
-Den aktuellen Kurs kann man beispielsweise unter [bitcoin.de](https://www.bitcoin.de/de/) einsehen:
+Den aktuellen Kurs kann man beispielsweise unter [bitcoin.de](https://www.bitcoin.de/) einsehen:
 
 <img src="https://bitcoinapi.de/widget/current-btc-price">
 
