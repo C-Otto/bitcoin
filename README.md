@@ -39,6 +39,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 - [Wie funktioniert Bitcoin? bitcoin.org](https://bitcoin.org/de/wie-es-funktioniert)
 - [Vortrag auf der ACATIS Value-Konferenz](https://www.youtube.com/watch?v=CNxXumeOxF0)
 - [p2pLabs Lecture #1: Bitcoin & Blockchain-Technologie](https://www.youtube.com/watch?v=jAuqoOwepl0)
+- [TED: How the blockchain is changing money and business](http://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business)
 - [Analysis of hashrate-based double-spending](https://bitcoil.co.il/Doublespend.pdf)
 
 ## Autoren
