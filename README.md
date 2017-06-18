@@ -38,6 +38,7 @@ Zusätzlich ist es natürlich auch möglich, Feedback per [E-Mail](mailto:bitcoi
 ## Weitere Quellen
 - [Wie funktioniert Bitcoin? (bitcoin.org)](https://bitcoin.org/de/wie-es-funktioniert)
 - [So funktioniert die Kryptowährung Bitcoin (heise.de)](https://www.heise.de/ct/artikel/So-funktioniert-die-Kryptowaehrung-Bitcoin-3742304.html)
+- [Blockchain-Technologie (bafin.de)](https://www.bafin.de/DE/Aufsicht/FinTech/Blockchain/blockchain_node.html)
 - [Vortrag auf der ACATIS Value-Konferenz](https://www.youtube.com/watch?v=CNxXumeOxF0)
 - [p2pLabs Lecture #1: Bitcoin & Blockchain-Technologie](https://www.youtube.com/watch?v=jAuqoOwepl0)
 - [TED: How the blockchain is changing money and business](http://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business)
