@@ -1,5 +1,7 @@
 # Ein Versuch, Bitcoin und die Blockchain verständlich zu erklären
 
+**UPDATE 2021: Ich habe die Seite ewig nicht aktualisiert, weshalb viele Informationen vielleicht nicht mehr aktuell sind. Ich empfehle dringend einen Blick auf https://netpositive.money/de/faq/ zu werfen!**
+
 ## Über diese Seite
 Das Ziel dieser Seite ist, interessierten Lesern möglichst verständliche Informationen zum Thema Bitcoin und Blockchain zu geben.
 Dabei werden neben Grundlagen auch interessante Details erklärt, die häufig falsch verstanden und in Artikeln falsch präsentiert werden.
